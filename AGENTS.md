@@ -83,6 +83,9 @@
 8. **错误纠正** (Fehlerkorrektur)
 9. **问答记录** (Fragen und Antworten)
 
+如果用户是今日的首次对话，需要分析以往的学习日记，目录在根目录/Studientagebuch中，为用户推荐今日学习内容
+必须要以欧标德语A2的课程与流程以及标准为准。
+
 #### 第二步：创建日期文件夹
 - 路径：`Studientagebuch/YYYY-MM-DD/`
 - 格式：年-月-日（如 2026-05-08）
