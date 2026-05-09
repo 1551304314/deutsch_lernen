@@ -1,6 +1,25 @@
+# 词汇学习 — reden 词族全解析 - 2026-05-08
+
+## 学习时间
+2026-05-08
+
+## 内容总结
+以动词 reden 为核心，系统学习其词族的 14 个派生词（含可分/不可分动词）、11 个复合名词和 8 个固定搭配，掌握词根扩展法。
+
+---
+
 # Wortfamilie "reden" — 以 reden 为词根的词汇全解析
 
 ---
+
+## 复习要点
+- [ ] 可分动词前缀：aus-, ein-, zu-, mit-, nach-, frei-
+- [ ] 不可分动词前缀：über-, be-, wider-, zer-
+- [ ] überreden vs. zureden vs. einreden 辨析
+- [ ] 固定搭配：Rede und Antwort stehen, zur Rede stellen, keine Rede sein
+
+## 下次学习建议
+用词根扩展法学习另一个高频动词词族（如 sprechen, gehen, kommen）
 
 ## 一、基础词
 

@@ -1,8 +1,27 @@
+# 词汇与语法 — 句子分析 - 2026-05-08
+
+## 学习时间
+2026-05-08
+
+## 内容总结
+通过一句德语名言 "Nur wer keine Zukunft hat, redet über seine Vergangenheit." 学习 wer 主语从句、kein 否定、介词支配格等语法点，同时积累核心词汇。
+
+---
+
 # Satzanalyse: "Nur wer keine Zukunft hat, redet über seine Vergangenheit."
 
 > 只有没有未来的人，才谈论自己的过去。
 
 ---
+
+## 复习要点
+- [ ] wer 引导的主语从句（泛指"……的人"）
+- [ ] kein- 否定词的变格（与名词性数格一致）
+- [ ] reden über + Akk.（谈论某事）
+- [ ] 物主代词 seine 的指代关系
+
+## 下次学习建议
+用同样的拆解方法分析其他德语名言，巩固从句结构和词汇。
 
 ## 单词
 

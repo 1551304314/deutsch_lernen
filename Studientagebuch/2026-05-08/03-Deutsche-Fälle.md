@@ -1,6 +1,27 @@
+# 语法知识 — 德语四大格详解 - 2026-05-08
+
+## 学习时间
+2026-05-08
+
+## 内容总结
+系统学习德语 Nominativ、Akkusativ、Dativ、Genitiv 四大格的用法、提问方式、冠词变格表和代词变格表，掌握支配特定格的动词和介词。
+
+---
+
 # 德语四大格（Fälle）详解
 
 ---
+
+## 复习要点
+- [ ] 阳性 Akkusativ 是唯一变脸的：der → den, ein → einen
+- [ ] Dativ 阳性/中性都是 dem；复数名词加 -n
+- [ ] Genitiv 阳性/中性加 -s/-es
+- [ ] Dativ 动词清单：helfen, danken, antworten, gehören, gefallen, glauben 等
+- [ ] Dativ 介词口诀：aus, bei, mit, nach, seit, von, zu
+- [ ] Akkusativ 介词口诀：durch, für, gegen, ohne, um, bis
+
+## 下次学习建议
+用四大格各造句 3 个，重点练 Akkusativ 和 Dativ 的区分
 
 ## 一、什么是"格"？
 
