@@ -1,10 +1,10 @@
 # 语法知识 - 2026-08-04
 
 ## 学习时间
-约 09:00 - 11:30
+约 09:00 - 11:30 及当日后续时段
 
 ## 内容总结
-本日集中攻克 8 大语法专题，使从句体系从 A2 基础全面打通至 B2 高阶，并补齐虚拟式体系的最后一块（Konjunktiv I）。涵盖：方式从句、代副词体系、关系从句深化、间接引语、名物化、非现实比较从句、时间从句补完、对立从句。
+本日集中攻克 9 大语法专题，使从句体系从 A2 基础全面打通至 B2 高阶，并补齐虚拟式体系的最后一块（Konjunktiv I）。涵盖：方式从句、代副词体系、关系从句深化、间接引语、名物化、非现实比较从句、时间从句补完、对立从句、条件从句全谱系（A1→B2）。
 
 ---
 
@@ -365,6 +365,145 @@ so tun, als ob（装作）；aussehen, als ob（看起来好像）；sich anfüh
 
 ---
 
+### 九、Konditionalsätze 条件从句全谱系（A1→B2）⚠️ 新学
+
+回答 **unter welcher Bedingung?（在什么条件下？）** 的问题，按 A1→B2 分阶段推进。
+
+#### A1 基础：wenn + Indikativ 现实条件从句
+
+**规则**：wenn 引导从句，变位动词位于从句**末尾**；从句前置时主句动词第一位（V1），从句后置时主句正语序（V2）。
+
+| 位置 | 结构 | 例 |
+|------|------|-----|
+| 从句在前 | Wenn S...V₂(句末), **V₁ S**... | Wenn ich Zeit habe, **gehe** ich ins Kino. |
+| 从句在后 | S **V₂**..., wenn S...V(句末) | Ich gehe ins Kino, wenn ich Zeit habe. |
+
+> Wenn es regnet, bleibe ich zu Hause.
+> Wenn du Hunger hast, können wir etwas essen.
+
+**wenn vs. wann**（易混淆）：wann = 疑问词（何时）；wenn = 连词（如果 / 当……时）。
+> **Wann** kommst du? ↔ Ich freue mich, **wenn** du kommst.
+
+#### A2 扩展：falls / dann / wenn nicht
+
+**falls** = 万一/假如，仅表条件、不确定性更强（wenn 还可表时间）。
+> **Falls** es morgen regnet, verschieben wir den Ausflug.
+> **Falls** ich den Zug verpasse, nehme ich den nächsten.
+
+**dann/so 连接**：从句前置时主句可加 dann/so，但必须**正语序 V2**（不能 V1）。
+> Wenn du fleißig lernst, **dann** schaffst du die Prüfung. ✅
+> ~~Wenn du fleißig lernst, dann schaffst du...~~ ❌
+
+**wenn nicht** 否定条件：
+> Wenn du **nicht** lernst, wirst du die Prüfung nicht bestehen.
+
+#### B1 非现实条件：wenn + Konjunktiv II ⚠️ 分水岭
+
+| 类型 | 语式 | 例句 |
+|------|------|------|
+| 现实条件 | wenn + Indikativ | Wenn ich Zeit **habe**, komme ich. |
+| 非现实条件 | wenn + K II | Wenn ich Zeit **hätte**, **käme** ich. |
+
+**KII 三种构成方式**：
+
+| 方式 | 结构 | 适用 |
+|------|------|------|
+| würde-Form | würde + Infinitiv | 大多数动词（通用保险） |
+| 原形 KII | hätte, wäre, käme, ginge... | 高频强变化动词 |
+| 混合型 | 助动词原形 + 实义动词 würde | **日常最推荐** |
+
+> Wenn ich reich **wäre**, **würde** ich um die Welt reisen.（我没有）
+> Wenn er mich eingeladen **hätte**, **wäre** ich zur Party gekommen.（过去非现实）
+
+> 📌 **记忆技巧**："假装系" = 假（假如）+ 装（假装）+ 系（非现实）→ 用 KII。
+
+#### B1 als ob / als wenn：虚拟比较
+
+> Er tut so, **als ob** er alles **wüsste**.
+> Sie sieht aus, **als wenn** sie krank **wäre**.
+> Er tut so, **als wäre** er reich.（最地道，省略连词 + 反语序）
+
+四种写法：als ob / als wenn / als（V1）/ als ob + KI（书面正式）。
+
+#### B1 je ... desto / umso：越……越……
+
+**规则**：je + 比较级（从句尾语序），desto/umso + 比较级（主句 V2）。
+> **Je** mehr du lernst, **desto** besser werden deine Noten.
+> **Je** früher wir losfahren, **umso** eher kommen wir an.
+
+#### B1 其他条件连词
+
+| 连词 | 含义 | 例 |
+|------|------|-----|
+| es sei denn (dass) | 除非 | Ich gehe spazieren, es sei denn, es regnet. |
+| unter der Bedingung, dass | 在……条件下（正式） | Du kannst das Auto haben, unter der Bedingung, dass du vorsichtig fährst. |
+| vorausgesetzt, dass | 前提是 | Du bestehst die Prüfung, vorausgesetzt, dass du genug lernst. |
+| sofern | 只要（书面） | Sofern es keine Einwände gibt, beginnen wir morgen. |
+| soweit | 就……而言（限定） | Soweit ich weiß, ist er krank. |
+
+#### B2 无连词条件从句（Verb-Erst-Stellung）⚠️ 高书面
+
+**规则**：省略 wenn，变位动词前移至从句第一位，适用所有语式。
+
+| 有连词 | 无连词 |
+|--------|--------|
+| Wenn ich Zeit habe, ... | **Habe** ich Zeit, ... |
+| Wenn er käme, ... | **Käme** er, ... |
+| Wenn ich das gewusst hätte, ... | **Hätte** ich das gewusst, ... |
+
+> **Hätte** ich mehr Geld, würde ich ein Haus kaufen.
+> **Wäre** er früher gekommen, hätten wir ihn getroffen.
+
+#### B2 sollte：万一……（委婉得体）
+
+表达未来可能性低的条件，商务/正式信函标配。
+
+> **Sollte** ich mich verspäten, fangt bitte ohne mich an.
+> **Sollten** Sie Fragen haben, stehe ich Ihnen gerne zur Verfügung.
+
+#### B2 介词结构表条件（简练省词）
+
+| 介词 | 格 | 含义 | 例 |
+|------|-----|------|-----|
+| bei | +Dat | 在……情况下 | Bei gutem Wetter machen wir einen Ausflug. |
+| mit | +Dat | 有……的话 | Mit deiner Unterstützung wird das Projekt ein Erfolg. |
+| ohne | +Akk | 没有……的话 | Ohne das Wörterbuch hätte ich den Text nicht verstanden. |
+| im Falle | +Gen | 一旦……（正式） | Im Falle eines Notfalls rufen Sie die 112. |
+
+#### B2 auch wenn / selbst wenn：让步条件
+
+| 类型 | 含义 | 例 |
+|------|------|-----|
+| wenn（条件） | 如 A 则 B | Wenn das Wetter schön ist, gehen wir raus. |
+| auch wenn（让步） | 即使 A 仍 B | Auch wenn es regnet, gehe ich joggen. |
+| selbst wenn（让步强调） | 纵使 | Selbst wenn du mich anflehen würdest, würde ich nicht nachgeben. |
+
+#### 全谱系地图
+
+| 水平 | 结构 | 语义 |
+|------|------|------|
+| A1 | wenn + Indikativ | 现实条件 |
+| A2 | falls / wenn nicht | 不确定 / 否定条件 |
+| B1 | wenn + KII | 非现实条件 |
+| B1 | als ob + KII | 虚拟比较 |
+| B1 | je...desto/umso | 递进条件 |
+| B1 | es sei denn / unter der Bedingung / vorausgesetzt / sofern | 例外 / 正式 / 书面 |
+| B2 | 无连词 V1 | 优雅书面 |
+| B2 | sollte | 未来委婉 |
+| B2 | bei/mit/ohne/im Falle | 介词替代 |
+| B2 | auch wenn / selbst wenn | 让步 |
+
+#### 记忆口诀
+
+1. **wenn 万能锁** — 不确定时就用 wenn，不会错
+2. **falls 添疑虑** — 比 wenn 多一层"万一"
+3. **KII 三件套** — würde（通用）/ hätte-wäre（高频配对）/ 原形 KII（书面升级）
+4. **去 if 前移 V** — 去掉 wenn，动词冲到第一位 = 无连词条件从句
+5. **sollte 是礼貌牌** — 正式信件里"万一"的标配
+6. **je...desto 中文直译** — 记住"越……越……"的节奏
+
+---
+
 ## 复习要点
 - [ ] indem/ohne dass/ohne...zu/statt dass/statt...zu 六连词各造 1 句
 - [ ] wo(r)- vs da(r)- 三线对比默写（Woran.../daran.../woran...）
@@ -374,9 +513,14 @@ so tun, als ob（装作）；aussehen, als ob（看起来好像）；sich anfüh
 - [ ] als ob / als wenn / als 三变体互换练习 2 句
 - [ ] solange vs während、sobald vs nachdem 辨析各造 1 句
 - [ ] während 对比用法 + wohingegen + wo doch 各造 1 句
+- [ ] 条件从句：现实（wenn）与非现实（wenn+KII）同义句互换练习 2 句
+- [ ] als ob / als wenn / als 三变体 + 无连词条件从句（V1）各造 1 句
+- [ ] falls / sofern / es sei denn / unter der Bedingung / vorausgesetzt 连词造句各 1 句
+- [ ] 条件从句 → 介词结构转换（wenn→bei / ohne）各 1 句
 
 ## 下次学习建议
 1. **优先补对话练习**（已连续缺席 7 次，输出能力是最大短板）
-2. 完成今日未做的练习（Konjunktiv I 造句、名物化转换、als ob 变体）
+2. 完成今日未做的练习（Konjunktiv I 造句、名物化转换、als ob 变体、条件从句互换练习）
 3. 继续 B2 剩余专项：Restriktivsätze（soviel/soweit）、主观情态动词、Passiversatzformen
-4. 从句体系已基本完整，建议用一篇 B1/B2 文章做综合语法分析（类似 05-19 精读）
+4. 从句体系已基本完整（含条件从句全谱系），建议用一篇 B1/B2 文章做综合语法分析（类似 05-19 精读）
+5. 条件从句已打通 A1→B2，建议练习"同义改写"：同一句话用 wenn / falls / KII / 无连词 / 介词 五种方式表达
