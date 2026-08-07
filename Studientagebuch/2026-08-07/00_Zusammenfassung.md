@@ -1,44 +1,46 @@
 # 学习总结 - 2026-08-07
 
 ## 今日学习概览
-- **学习时长**: 约 90 分钟（单次语法专题讲解）
-- **涉及主题**: 时间从句 Temporalsätze 全谱系（A1→B2）
-- **新学词汇数**: 0（纯语法专题，无独立词汇）
-- **语法点数**: 1 大专题（含 6 个级别细分、13 个时间连词、2 类替代形式、1 套时态阶梯规则）
+- **学习时长**: 约 3 小时（两个语法专题）
+- **涉及主题**: ① 时间从句 Temporalsätze 全谱系（A1→B2）② 反身动词 Reflexive Verben 全谱系（A1→B2）
+- **新学词汇数**: 约 90 个反身动词/搭配（全部配记忆例句）+ 5 个强变化动词
+- **语法点数**: 2 大专题（时间从句 13 个连词 + 反身动词 3 大分类 + 1 套格判断规则）
 
 ## 各模块内容
-- [ ] 词汇学习 — 未涉及（例句中的动词搭配属语法载体）
-- [x] 语法知识 — Temporalsätze 全谱系：wenn(A1) / als(A1) / bevor(A1) / nachdem(A2·时态阶梯) / während(A2) / bis(A2) / seit·seitdem(A2) / sobald(A2) / solange(B1) / sooft(B1) / sowie(B1) / ehe(B1) / kaum dass(B2) + 介词名物化(B2) + 分词结构替代(B2)
+- [x] 词汇学习 — 反身动词全词汇表（假反身/真反身/交互反身/介词搭配/固定短语，均配例句）
+- [x] 语法知识 — ① Temporalsätze：wenn/als/bevor/nachdem/während/bis/seit(dem)/sobald/solange/sooft/sowie/ehe/kaum dass + 名物化 + 分词替代；② Reflexive Verben：真反身/假反身（Akk型+Dat型）/交互反身 + Akk-Dat 判断规则 + 语序 + Perfekt
 - [ ] 对话练习 — 未涉及
 - [ ] 阅读理解 — 未涉及
 - [ ] 写作练习 — 未涉及
 - [ ] 听力材料 — 未涉及
 - [ ] 文化知识 — 未涉及
-- [ ] 错误纠正 — 讲解中预设常见错误点（wenn/als 混用、nachdem 时态平级、während/als 混用、seit 逻辑矛盾等）
+- [x] 错误纠正 — ① 讲解中预设常见错误点（wenn/als 混用、nachdem 时态平级、seit 逻辑矛盾）；② 反身动词预设错误（漏 sich、Akk/Dat 混用、"我叫"非反身）；③ 练习一（反身代词填空 8/8 全对）
 - [ ] 问答记录 — 未涉及
 
 ## 学习亮点
-1. **时间从句 A1→B2 全谱系打通**：从 wenn/als 起步，经 bevor/nachdem/während/bis/seit/sobald，至 B1 的 solange/sooft/sowie/ehe 与 B2 的 kaum dass，补齐从句体系的最后一块核心板块
-2. 建立 wenn（每次/现在将来）与 als（过去一次）的清晰分工，掌握"过去一次用 als，其余统统用 wenn"的核心判断标准
-3. 攻克 nachdem 的**时态阶梯（Zeitstufen）**：从句比主句早一个时态阶段，避免最典型的同阶时态错误
-4. 名物化能力延续：时间从句 → 介词短语的转换思维与 Kausal（wegen）、Konditional（bei）、Konzessiv（trotz）一脉相承，四个状语从句方向全部完成闭环
-5. 掌握 B2 级替代手段：kaum dass 强调时间间隔极短，分词结构（Partizip I 表同时 / Partizip II 表先时）实现书面缩略表达
+1. **反身动词 A1→B2 全谱系打通**：真反身（38 个）/假反身（34 个）/交互反身（17 个）三大类 + 固定介词搭配总表，全部配例句记忆
+2. 建立 **Akk/Dat 判断核心规则**："有 Akk 用 Dat，无 Akk 用 Akk"，并总结第三格反身三大场景（给自己/打理身体/动脑）
+3. **练习一 8/8 全对**：mich/mir/sich 等格判断已实际掌握，第三格反身（有第四格宾语）未出错
+4. 时间从句 A1→B2 全谱系打通，四大状语从句（Kausal/Konditional/Konzessiv/Temporal）完成闭环
+5. 攻克 nachdem 时态阶梯（Zeitstufen）与 wenn/als 分工、B2 名物化与分词替代
+6. 学会用 **einander/gegenseitig** 检验反身 vs 交互的语义区别
 
 ## 需要加强
-1. wenn/als 辨句与 nachdem 时态阶梯尚未实操作答（本次以讲解为主）
-2. 时间从句名物化转换（während→während+Gen.、nachdem→nach+Dat. 等）需练习巩固
-3. B2 分词结构（In Berlin angekommen, ...）属书面/正式语体，需在阅读中识别巩固
-4. 口语对话练习仍缺席（已累计缺席 10 次，输出缺口持续扩大）
+1. 练习二（真/假/交互判断）未完成作答
+2. 介词搭配填空与中→德翻译练习未实操（本次以讲解为主）
+3. 时间从句名物化转换（während→während+Gen. 等）仍需练习巩固
+4. B2 分词结构、真反身 B2 词汇属书面/正式语体，需在阅读中识别巩固
+5. **口语对话练习仍缺席**（连续缺席，输出缺口持续扩大）
 
 ## 下次学习计划
-- [ ] **必须补上对话练习**（连续缺席 10 次，输出缺口严重）
-- [ ] 辨句练习：wenn/als 各 5 句，判定过去一次性 / 过去重复 / 现在将来
-- [ ] nachdem 时态阶梯造句 5 组（Plusquamperfekt → Präteritum）
-- [ ] 名物化练习补做：时间从句 → 介词短语转换 5 组（仿 Kausal/Konzessiv 练习模式）
-- [ ] kaum dass / seitdem / sobald / solange 各造 2 句输出验证
-- [ ] 在阅读材料中识别 ehe、kaum dass、während+Gen. 并标注语体
+- [ ] **必须补上对话练习**（连续缺席，输出缺口严重）
+- [ ] 完成练习二：真反身/假反身/交互反身判断
+- [ ] 反身代词填空练习（mich/mir/dich/dir/sich/uns/euch）
+- [ ] 介词搭配填空（freuen auf/über、kümmern um、gewöhnen an…）
+- [ ] 中→德翻译 5 句，检验 sich 是否遗漏、格是否正确
+- [ ] 时间从句辨句：wenn/als 各 5 句 + nachdem 时态阶梯造句 5 组
 - [ ] 从句体系回顾：Kausal/Konditional/Konzessiv/Temporal 四种状语从句对照复习
 
 ## 进度追踪
-- **当前水平**: A2 语法约 78%，B1 语法覆盖过半，B2 内容持续系统渗透（Kausal/Konditional/Konzessiv/Temporal 四大状语从句全谱系完成，Restriktivsätze 等剩余专项待补）
-- **距离 B2 目标**: 从句全谱系已近打通，剩余主要是 B1/B2 专项（Restriktivsätze、主观情态动词、Passiversatzformen）与输出能力（对话/写作），其中对话输出是当前最大短板
+- **当前水平**: A2 语法约 80%，B1 语法覆盖过半，B2 内容持续系统渗透（四大状语从句全谱系完成，反身动词体系完成；剩余专项：Restriktivsätze、主观情态动词、Passiversatzformen）
+- **距离 B2 目标**: 从句全谱系与反身动词体系已打通，剩余主要是 B1/B2 专项与输出能力（对话/写作），其中对话输出是当前最大短板

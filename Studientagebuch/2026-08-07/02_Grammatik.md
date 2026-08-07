@@ -318,3 +318,136 @@ B2 要求掌握用**介词短语**替代从句，使表达更简洁、更书面�
 - 输出练习：用 kaum dass、seitdem、sobald、solange 各造 2 句
 - 在阅读材料中识别 ehe、kaum dass、während+Gen. 并标注语体
 - **补上对话练习**（已连续缺席 10 次，输出缺口持续扩大）
+
+---
+
+# 反身动词 Reflexive Verben（A1→B2）— 当日第二部分
+
+## 一、核心概念（A1）
+
+反身动词 = 动词 + **反身代词**（Reflexivpronomen），反身代词指回主语本身（动作施加在自己身上）。
+
+**反身代词变格表**（A2 必背）：
+
+| 人称 | 第四格 Akk | 第三格 Dat | Akk 例句 | Dat 例句 |
+|---|---|---|---|---|
+| ich | mich | mir | Ich wasche **mich**. | Ich putze **mir** die Zähne. |
+| du | dich | dir | Du wäschst **dich**. | Du putzt **dir** die Zähne. |
+| er/sie/es | sich | sich | Er wäscht **sich**. | Er putzt **sich** die Zähne. |
+| wir | uns | uns | Wir waschen **uns**. | Wir putzen **uns** die Zähne. |
+| ihr | euch | euch | Ihr wascht **euch**. | Ihr putzt **euch** die Zähne. |
+| sie/Sie | sich | sich | Sie waschen **sich**. | Sie putzen **sich** die Zähne. |
+
+> ⚠️ 关键：**mich/mir、dich/dir 有格的区别**，但**第三人称与尊称均为 sich**——这是第三格反身代词最容易出错的原因。
+
+**中德差异**：德语反身动词比中文多。中文"我洗澡""我穿衣服"，德语必须说 "Ich wasche mich" "Ich ziehe mich an"，反身代词**不可省**。
+
+---
+
+## 二、三大分类
+
+### 1. 真反身（echte Reflexive）— sich 不可省、不可替换
+
+**定义**：反身代词是动词的固定组成部分，去掉或替换句义不成立/完全改变。
+
+> ✅ Ich **beeile mich**. → ❌ ~~Ich beeile.~~
+> ✅ Er hat **sich** in Berlin **befunden**.（去掉 sich 意思全变）
+
+### 2. 假反身（unechte Reflexive）— 可换宾语
+
+**定义**：动词本身有非反身用法，反身代词是"真正的宾语"，**可换成名词宾语**。
+
+> **Er wäscht den Hund.** ↔ **Er wäscht sich.**
+> **Das interessiert mich.** ↔ **Er interessiert sich für Kunst.**
+
+- **第四格型**（无其他第四格宾语）：sich anziehen / sich waschen / sich setzen / sich interessieren / sich ärgern / sich erinnern…
+- **第三格型**（句中另有第四格宾语）：sich die Zähne putzen / sich etwas ansehen / sich etwas kaufen / sich etwas merken…
+
+### 3. 交互反身（reziproke Verben）— 彼此，主语复数
+
+**定义**：反身代词表示"互相/彼此"（einander），主语必须是复数或双方。反身代词的**格跟随动词原本支配的格**（helfen 支配三格 → sich helfen 三格）。
+
+> Sie helfen **sich** gegenseitig. = Sie helfen **einander**.（互相帮助）
+
+**反身 vs 交互**：
+> **Wir sehen uns im Spiegel.** → 看见**自己**（反身）
+> **Wir sehen uns morgen.** → 彼此**相见**（交互）
+> 检验方法：用 **einander / gegenseitig** 替换确认。
+
+---
+
+## 三、Akk 还是 Dat？判断规则（A2 核心考点）
+
+**唯一规则：句中已有第四格宾语（Akk），反身代词就用第三格（Dat）；没有第四格宾语，反身代词就是第四格。**
+
+| 句 | 分析 | 反身代词 |
+|---|---|---|
+| Ich wasche **mich**. | 无其他 Akk | mich |
+| Ich wasche **mir** die Hände. | die Hände 是 Akk | mir |
+| Er zieht **sich** an. | 无其他 Akk | sich |
+| Er zieht **sich** den Mantel an. | den Mantel 是 Akk | sich |
+| Ich kann **mich** nicht erinnern. | erinnern 支配 sich（Akk） | mich |
+| Ich merke **mir** die Wörter. | die Wörter 是 Akk | mir |
+
+> 🧠 口诀：**"有 Akk 用 Dat，无 Akk 用 Akk；给自己、打理身体、动脑 → 第三格。"**
+> 第三格反身三大场景：**① 给自己**（kaufen/holen/wünschen/leisten/gönnen）**② 打理身体**（putzen/kämmen/waschen）**③ 动脑**（merken/überlegen/vorstellen）。
+
+---
+
+## 四、语序规则（A2/B1）
+
+| 结构 | 例句 | 规则 |
+|---|---|---|
+| 主语是代词 | **Ich wasche mich.** | 反身代词紧跟动词后 |
+| 状语前置 | Jeden Morgen **wasche ich mich**. | 主语代词在动词后，反身代词随后 |
+| 主语是名词 | Jeden Morgen **wäscht sich mein Vater**. | 反身代词在**名词主语之前** |
+| 从句 | Ich weiß, dass er **sich beeilt**. | 反身代词紧跟从句主语后 |
+| Perfekt | Er hat **sich** heute Morgen gewaschen. | 反身代词紧跟助动词后 |
+
+> 🧠 口诀：**反身代词最贴近动词；主语是名词时，反身代词抢先。**
+
+---
+
+## 五、时态：Perfekt 用 haben（A2）
+
+反身动词完成时**几乎一律用 haben**（不产生位置移动）：
+
+> Ich habe **mich** beeilt. / Sie haben **sich** gestritten. / Er hat **sich** den Arm gebrochen.
+
+---
+
+## 六、常见错误（Fehlerquelle）
+
+| ❌ 错误 | ✅ 正确 | 说明 |
+|---|---|---|
+| ~~Ich wasche jeden Morgen.~~ | Ich wasche **mich** jeden Morgen. | 中文无"自己"，但德语反身代词不可省 |
+| ~~Ich wasche mich die Hände.~~ | Ich wasche **mir** die Hände. | 有 Akk 宾语 → 反身代词用 Dat |
+| ~~Er beeilt.~~ | Er beeilt **sich**. | 真反身不能丢 sich |
+| ~~Ich heiße mich~~ | Ich **heiße** … | 中文"我叫"不是反身结构！ |
+| ~~Wir treffen uns uns~~ | Wir treffen **uns**. | uns 只有一个 |
+
+---
+
+## 七、记忆技巧汇总
+
+1. **三大类判断**：sich 不能删 → 真反身；能换宾语 → 假反身；主语复数表"彼此" → 交互
+2. **格判断**："有 Akk 用 Dat，无 Akk 用 Akk"
+3. **Dat 三家族**：给自己 + 打理身体 + 动脑
+4. **介词连背**：freuen auf/über、kümmern um、gewöhnen an 成对记忆
+5. **反身代词最贴近动词**，主语是名词时抢在前
+6. **Perfekt 一律 haben**
+
+---
+
+## 复习要点
+- [ ] 反身代词变格表（mich/mir/dich/dir/sich/uns/euch）
+- [ ] 真反身 vs 假反身 vs 交互反身的判断标准
+- [ ] Akk/Dat 判断规则："有 Akk 用 Dat，无 Akk 用 Akk"
+- [ ] 固定介词搭配（auf/über/für/um/an/von/bei/mit/nach/zu/in）
+- [ ] 反身代词语序（主语是名词时抢先）
+- [ ] 反身 vs 交互：用 einander/gegenseitig 检验
+
+## 下次学习建议
+- 反身代词填空（格判断）与三分类判断练习
+- 中→德翻译，检验 sich 是否遗漏、格是否正确
+- **补上对话练习**（连续缺席，输出缺口持续扩大）
