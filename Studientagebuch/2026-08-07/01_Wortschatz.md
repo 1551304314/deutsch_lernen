@@ -265,3 +265,16 @@
 - 介词搭配填空题巩固（freuen auf/über、kümmern um、gewöhnen an…）
 - 中→德翻译练习，重点检验 sich 是否遗漏、格是否正确
 - **对话输出练习仍待补**（已连续缺席，输出缺口持续扩大）
+
+---
+
+### 十、强变化动词（从句复习时段推送）
+
+| 不定式 | Präteritum | Partizip II | 中文 | Ablaut 规律 |
+|---|---|---|---|---|
+| kommen | kam | gekommen | 来 | e→a→o |
+| sprechen | sprach | gesprochen | 说 | e→a→o（换音 e→i：du sprichst） |
+| geben | gab | gegeben | 给 | e→a→e（换音 e→i：du gibst） |
+| finden | fand | gefunden | 找到 | i→a→u |
+
+> 📌 记忆分组：**e→a→o**（kommen、sprechen）｜**e→a→e**（geben）｜**i→a→u**（finden）

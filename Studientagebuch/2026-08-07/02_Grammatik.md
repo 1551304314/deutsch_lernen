@@ -451,3 +451,95 @@ B2 要求掌握用**介词短语**替代从句，使表达更简洁、更书面�
 - 反身代词填空（格判断）与三分类判断练习
 - 中→德翻译，检验 sich 是否遗漏、格是否正确
 - **补上对话练习**（连续缺席，输出缺口持续扩大）
+
+---
+
+## 八、Nebensätze 从句全类型复习（Lernplan 模块 1-12）
+
+### 学习时间
+当日第二时段（从句系统复习会话，按 Lernplan_Nebensaetze.md 推进）
+
+### 内容总结
+按从句学习计划系统复习，第一阶段（A1-A2，模块 1-9）+ 第二阶段开头（B1，模块 10-12）共 **12 个模块全部通关，练习全部一次答对**。重点巩固：动词落尾（尾语序）、关系代词格判断（08-04 的 Akk/Dat 薄弱点已补强）、nachdem 时态阶梯、主语判断规则（um...zu/damit 与 ohne/statt 家族三处通用）。
+
+---
+
+### 模块 1：dass-Sätze 宾语从句（A1-A2）
+- 动词落句尾：`Ich weiß, dass er keine Zeit **hat**.`
+- dass **不可省略**（书面/考试）；口语非正式才可省
+- 主语从句 + 形式主语 es：`Es ist wichtig, dass du früh kommst.`
+- Perfekt 双重末尾：`Ich weiß, dass er **gekommen ist**.`
+- 否定词位置：`Ich glaube, dass er **nicht** kommt.`
+
+### 模块 2：weil 原因从句（A1-A2）
+- weil 尾语序；从句在前时主句动词提前：`Weil ich müde bin, **gehe** ich schlafen.`
+- **weil vs denn**：weil = 从句尾语序、可置句首；denn = 主句语序（V2）、不可句首
+- 口语 `weil ich habe keine Zeit`（动词不落尾）：**口语可以，书面/考试必须落尾**
+
+### 模块 3：wenn 条件从句（A1-A2）
+- wenn = 如果（现实条件），尾语序
+- **wenn 双面孔**：条件（如果）vs 时间（当……时）——能换 falls = 条件；过去重复时间用 wenn，过去一次用 als
+
+### 模块 4：Indirekte Fragesätze 间接疑问从句（A2）
+- ob = 是否；w-Frage 保留原疑问词
+- 人称变化：`Wo wohnst du?` → `Er fragt, wo ich **wohne**.`
+- Perfekt 双重末尾：`ob Anna die Prüfung **bestanden hat**`
+- 可分动词合并落尾：`ob der Zug **abfährt**`
+
+### 模块 5：wenn / als / bevor 时间基础（A1-A2）
+- **三分法**：过去一次性 → als；过去重复性 → wenn；现在/将来 → wenn
+- 口诀：**过去一次用 als，其余统统用 wenn**
+- bevor：主句动作先发生，从句后发生
+
+### 模块 6：Finalsätze 目的从句（A2）
+- **主语相同 → um...zu**（无主语，zu+不定式落句尾）；**主语不同 → damit**（完整从句尾语序）
+- 例：Ich lerne Deutsch, um in Deutschland zu arbeiten. / damit mein Chef zufrieden ist.
+
+### 模块 7：Relativsätze 关系从句入门（A2）
+- 规则：**性数看先行词，格看从句内功能**
+- 变化表与定冠词仅三处不同：阳性 Akk **den**、阳性/中性 Dat **dem**、复数 Dat **denen**
+- 练习全对：dem（helfen+Dat）/ den（füttern+Akk）/ denen（复数先行词 + Dat）
+
+### 模块 8：Konsekutivsätze 结果从句（A2-B1）
+- sodass / so + Adj. + dass（sodass 可拆写 so dass）
+- **结果 vs 目的**：sodass = 客观结果（已发生）；um...zu/damit = 主观意图（未发生）
+
+### 模块 9：Temporalsätze 时间从句进阶组（A2，完整版）
+- **nachdem 时态阶梯**：从句比主句早一个阶段（Plusquamperfekt→Präteritum；Perfekt→Präsens；过完→KII 表后悔）
+- ❌ 高频错误：`Nachdem er aß, ging er.`（同阶段，无阶梯）→ `Nachdem er gegessen hatte, ...`
+- **nachdem vs bevor** 方向相反：nachdem 从句先发生；bevor 主句先发生
+- **während 双身份**：连词（尾语序）/ 介词（+Genitiv：während des Unterrichts）
+- **bis**：主句持续动作到从句发生（主句多用否定/持续动词）
+- **seit 语义陷阱**：暗示延续至今，**已结束事件（如去世）不能用 seit** → 用 nachdem/als
+- **sobald**：紧接着；过去场景同样走阶梯（过完→过去）
+
+### 模块 10：Modalsätze 方式从句（B1）
+- indem = 通过……；书面替代 dadurch, dass
+- **主语判断规则**（与模块 6 同款）：主语相同 → ohne...zu / statt...zu；主语不同 → ohne dass / statt dass
+- 练习三题全对：ohne...zu（同主语）/ statt...zu（同主语）/ ohne dass（不同主语）
+
+### 模块 11：Konzessivsätze 让步从句基础（A2-B1）
+- obwohl = 连词（尾语序）；trotzdem = **副词**（主句语序，两句式）
+- ⚠️ 中德思维差异：**不说 obwohl...aber**（中式错误）；trotzdem 不能引导从句
+
+### 模块 12：Irreale Vergleichssätze 非现实比较从句（B1）
+- 三种写法：als ob / als wenn（尾语序）/ als（**动词前移 V1**）
+- 从句必须 **KII**；状态用 wäre，**不用 würde**（würde 表变化）
+- ❌ 高频错误：`als ob er krank ist`（直陈式）→ `als ob er krank wäre`
+
+---
+
+## 复习要点
+- [ ] 尾语序：所有从句动词落句尾（含可分动词合并、Perfekt 双重末尾）
+- [ ] wenn vs als 三分法（过去一次/过去重复/现在将来）
+- [ ] nachdem 时态阶梯（早一个阶段）
+- [ ] seit 语义陷阱（已结束事件不用 seit）
+- [ ] 主语判断规则：**主语相同 → zu 不定式；主语不同 → dass 从句**（um...zu/damit、ohne...zu/ohne dass、statt...zu/statt dass 三家通用）
+- [ ] obwohl 不用 aber；trotzdem 是副词不是连词
+- [ ] als ob / als wenn / als + KII（状态用 wäre）
+- [ ] 关系代词：性数看先行词，格看从句功能（den/dem/denen 三处不同）
+
+## 下次学习建议
+- 继续 Lernplan 第二阶段剩余模块（13 关系深化 / 14 结果深化 / 15 对立 / 16 条件进阶）
+- 补做模块 12 的 als ob / als wenn / als 三变体互换练习
+- **补上对话练习**（连续缺席，输出缺口持续扩大）
