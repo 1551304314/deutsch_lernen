@@ -6,6 +6,10 @@
 ## 内容总结
 条件从句全谱系 A1→B2：从 A1 现实条件（wenn+Indikativ）、A2 不确定/否定条件（falls/wenn nicht），到 B1 非现实条件（wenn+KII）、书面连词（es sei denn/sofern/vorausgesetzt 等）、递进条件（je...desto），直至 B2 高阶结构（无连词 V1、sollte 委婉条件、介词替代、混合条件句、条件关系从句等），并补充条件相关词汇与常见错误。
 
+> ⚠️ **语体与使用频率标注（2026-08-22 增补）**：本专栏所有条目已按现代德语实际使用频率标注标签（详见文末「语体与使用频率标注」专节）：
+> 【常用】口语书面均高频（优先掌握）· 【书面】正式写作/新闻常用（识别 + 写作可用）· 【书面·少用】口语几乎不用（认识即可）· 【文学/陈旧】现代口语基本不用（不建议主动用）· 【近绝迹】几乎消失（了解即可）· 【法律公文】仅法律/极正式文书（识别即可）。
+> 被标注为「文学/陈旧」「近绝迹」「法律公文」的条目**不构成 B2 必考**，请勿与高频考点混淆。
+
 ---
 
 ## 一、概念：条件从句回答什么问题？
@@ -33,7 +37,7 @@
 
 ---
 
-## 二、A1：wenn + Indikativ — 现实条件从句【已学】
+## 二、A1：wenn + Indikativ【常用】— 现实条件从句【已学】
 
 **规则**：wenn 引导从句，变位动词位于从句**末尾**（尾语序）。从句在前时主句动词第一位（V1）；从句在后时主句正语序（V2）。
 
@@ -70,7 +74,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 三、A2：falls / wenn nicht / dann-so 连接【已学】
+## 三、A2：falls / wenn nicht【常用】/ dann-so 连接【已学】
 
 ### falls — "万一 / 假如"
 
@@ -101,7 +105,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 四、B1：非现实条件 — wenn + Konjunktiv II【已学】⚠️ 分水岭
+## 四、B1：非现实条件 — wenn + Konjunktiv II【常用】⚠️ 分水岭
 
 ### 现实 vs. 非现实对比
 
@@ -166,7 +170,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 五、B1：非现实比较 — als ob / als wenn / als【已学】
+## 五、B1：非现实比较 — als ob / als wenn / als【常用】
 
 与事实相反的比较，从句**必须用 KII**；状态用 wäre，**不用 würde**。
 
@@ -180,7 +184,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 六、B1：je ... desto / umso — 递进条件【已学】
+## 六、B1：je ... desto / umso【常用】— 递进条件【已学】
 
 **规则**：je + 比较级（从句尾语序），desto/umso + 比较级（主句 V2）。
 
@@ -193,7 +197,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 七、B1：其他书面条件连词【已学 + 补充】
+## 七、B1：其他书面条件连词（es sei denn / sofern / soweit / vorausgesetzt / unter der Bedingung【书面】、außer wenn【常用·口语】）【已学 + 补充】
 
 | 连词 | 含义 | 语序 | 例句 |
 |------|------|:--:|------|
@@ -230,7 +234,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 八、B2：无连词条件从句（Verb-Erst-Stellung）【已学】⚠️ 高书面
+## 八、B2：无连词条件从句（Verb-Erst-Stellung）【书面】⚠️ 高书面
 
 **规则**：省略 wenn，变位动词前移至从句第一位，适用所有语式。
 
@@ -250,7 +254,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 九、B2：sollte — "万一……"（委婉得体）【已学】
+## 九、B2：sollte【书面·商务，常用】— "万一……"（委婉得体）【已学】
 
 表达**未来可能性低**的条件，商务/正式信函标配。
 
@@ -263,7 +267,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 十、B2：介词结构表条件（名物化）【已学 + 补充】
+## 十、B2：介词结构表条件（bei/mit/ohne【常用】、im Falle/unter/für den Fall【书面】）【已学 + 补充】
 
 把条件从句压缩为 **介词 + 名词**，书面语简练省词。
 
@@ -291,7 +295,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 十一、B2：假设类连词（angenommen / gesetzt den Fall / vorausgesetzt）【补充】
+## 十一、B2：假设类连词（angenommen【书面】/ gesetzt den Fall·gesetzt dass【书面·少用】/ vorausgesetzt【书面】）【补充】
 
 用于提出**假设前提**，引出假设性条件，书面/学术常见。
 
@@ -325,7 +329,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 十三、B1/B2：nur wenn / nur dann, wenn — "只有……才"【补充】
+## 十三、B1/B2：nur wenn【常用】— "只有……才"【补充】
 
 **规则**：强调唯一条件，nur 紧贴 wenn 或与 dann 呼应。
 
@@ -339,7 +343,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 十四、B1/B2：sonst / andernfalls — "否则"【补充】
+## 十四、B1/B2：sonst【常用】/ andernfalls【书面】/ widrigenfalls【法律公文】— "否则"【补充】
 
 **规则**：连接两个主句（正语序，占位1），表示"**若不满足前句条件，则发生后句结果**"，是条件句的否定推论，口语高频。
 
@@ -353,7 +357,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 十五、B1/B2：wenn schon ... dann (schon) — "既然……那就"【补充】
+## 十五、B1/B2：wenn schon ... dann【常用习语】— "既然……那就"【补充】
 
 **规则**：表示"既然 A 成立/既然要做，就干脆做 B"，带让步+条件混合味。
 
@@ -365,7 +369,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 十六、B2：条件关系从句（Wer..., der...）【补充】
+## 十六、B2：条件关系从句（Wer..., der...）【书面/文学·成语性】【补充】
 
 **规则**：用关系代词 **wer**（= 任何人，若有人）引导从句，主句用 **der** 呼应，语义上 = "**如果有人……，那他就……**"，条件与关系双重功能。
 
@@ -379,7 +383,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 十七、B2：命令式条件句（Imperativ + dann）【补充】
+## 十七、B2：命令式条件句（Imperativ + dann）【常用·口语】【补充】
 
 **规则**：用**命令式**提出条件，主句用 dann 给出结果，口语非常自然，= 条件句的简化。
 
@@ -391,7 +395,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 十八、B2：es sei denn 的高级变体与 ob...oder 无条件【补充】
+## 十八、B2：ob ... oder【常用】/ wenn nicht ... so doch【书面·少用】— 无条件【补充】
 
 ### ob ... oder ... — "无论……与否"（无条件）
 
@@ -461,7 +465,62 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 二十一、常见错误提醒（Fehlerquelle）
+## 二十一、语体与使用频率标注（现代德语真实使用情况 · 重点必读）
+
+> 说明：以下按现代德语实际使用频率归类。**B2 考试只需主动掌握【常用】类**；【书面】类写作/阅读会碰到；【书面·少用】【文学/陈旧】【法律公文】类仅为"全覆盖"收录，不构成考点。
+
+### 第一梯队 ·【常用】—— 口语与书面都高频，必须主动掌握
+| 表达 | 级别 | 说明 |
+|------|------|------|
+| wenn + Indikativ | A1 | 最常用条件连词 |
+| falls / wenn nicht | A2 | 常用 |
+| dann / so 连接 | A2 | 常用（so 略书面） |
+| wenn + KII | B1 | 常用 |
+| als ob / als wenn / als | B1 | 常用 |
+| je ... desto / umso | B1 | 常用 |
+| außer wenn | B1 | 口语常用 |
+| nur wenn | B1/B2 | 常用 |
+| sonst | B1/B2 | 口语高频 |
+| wenn schon ... dann | B1/B2 | 常用习语 |
+| 命令式 + dann | B2 | 口语高频 |
+| ob ... oder | B2 | 常用 |
+| bei / mit / ohne + 名词 | B2 | 常用名物化 |
+| auch wenn / selbst wenn | B2 | 常用（让步条件） |
+
+### 第二梯队 ·【书面】—— 正式写作/新闻常用，口语少用
+| 表达 | 级别 | 说明 |
+|------|------|------|
+| es sei denn | B1 | 书面（口语亦见） |
+| sofern / soweit | B1 | 书面（soweit ich weiß 常用） |
+| vorausgesetzt, dass | B1/B2 | 书面 |
+| unter der Bedingung, dass | B1 | 书面 |
+| andernfalls | B1/B2 | 书面 |
+| 无连词 V1 | B2 | 书面（hätte/wäre 口语亦见） |
+| sollte | B2 | 商务 / 书面 |
+| im Falle / unter / für den Fall | B2 | 书面 |
+| angenommen, dass | B2 | 书面 |
+| 混合条件句 | B2 | 书面（语法现象） |
+| wer ... der | B2 | 书面 / 文学（成语性） |
+
+### 第三梯队 ·【书面·少用】—— 口语几乎不用，仅需认识
+| 表达 | 级别 | 说明 |
+|------|------|------|
+| gesetzt den Fall, dass / gesetzt, dass | B2 | 正式，略陈旧 |
+| wenn (auch) nicht ... so doch | B2 | 书面，偏少见 |
+
+### 第四梯队 ·【法律公文】
+| 表达 | 级别 | 说明 |
+|------|------|------|
+| widrigenfalls | B1/B2 | 极正式 / 公文，近绝迹 |
+
+### 一句话总结
+**口语日常只需：** wenn / falls / wenn + KII / als ob / je...desto / sonst / nur wenn / außer wenn / 命令式+dann / ob...oder / bei/mit/ohne；
+**书面写作再加：** es sei denn / sofern / vorausgesetzt / unter der Bedingung / andernfalls / 无连词 V1 / sollte / angenommen；
+**其余（gesetzt den Fall、widrigenfalls、wenn nicht...so doch）：** 认识即可，不必主动使用，考试不会考。
+
+---
+
+## 二十二、常见错误提醒（Fehlerquelle）
 
 | 错误 | 正确 | 说明 |
 |------|------|------|
@@ -477,7 +536,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 
 ---
 
-## 二十二、记忆技巧
+## 二十三、记忆技巧
 
 1. **wenn 万能锁** — 不确定时用 wenn，不会错
 2. **falls 添疑虑** — 比 wenn 多一层"万一"
@@ -495,6 +554,7 @@ wenn 既可表**条件（如果）**，也可表**时间（当……时）**。
 ## 更新记录
 
 - **2026-08-13**：整合创建。合并 2026-05-13 / 05-15 / 08-04 / 08-07 / 08-12 / 08-13 全部条件从句内容，补充遗漏项：三大条件类型框架、außer wenn、sonst/andernfalls、nur wenn、wenn schon...dann、angenommen/gesetzt den Fall、für den Fall dass、unter + Dat、混合条件句、条件关系从句（wer...der）、命令式条件句、ob...oder 无条件、条件相关词汇。
+- **2026-08-22**：按 AGENTS.md「语体与使用频率标注原则」全面标注。新增第二十一节「语体与使用频率标注」专节与章节标题频率标签：widrigenfalls 标为【法律公文】；gesetzt den Fall/gesetzt dass、wenn nicht...so doch 标为【书面·少用】；es sei denn/sofern/soweit/vorausgesetzt/unter der Bedingung/andernfalls/无连词 V1/sollte/im Falle/unter/für den Fall/angenommen/混合条件句/wer...der 标为【书面】；其余 wenn/falls/wenn+KII/als ob/je...desto/außer wenn/nur wenn/sonst/wenn schon/命令式+dann/ob...oder/bei/mit/ohne/auch wenn/selbst wenn 标为【常用】。
 
 ## 复习要点
 - [ ] 三大类型：现实（Indikativ）/ 非现实（KII 现在）/ 过去非现实（hätte/wäre + PII）

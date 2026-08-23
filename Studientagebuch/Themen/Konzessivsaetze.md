@@ -5,6 +5,16 @@
 ## 内容总结
 让步从句全谱系 A1→B2：从基础连词 obwohl、对应副词 trotzdem，到书面连词 obgleich/obschon/wenngleich、搭配连词 zwar...aber、假设型让步 auch wenn/selbst wenn/wenn auch，直至 B2 高阶结构（so+Adj.+auch、wie+Adj.+auch、noch so、mögen 让步、egal/einerlei/gleichgültig+W-Wort、W-Wort+auch immer、ob...oder、sei es...oder、K I 固定式），并补充介词名物化（trotz/ungeachtet/bei allem/allen...zum Trotz/entgegen）、obwohl+K II 反事实、让步相关词汇。至此让步表达由口语到书面全覆盖。
 
+> ⚠️ **重要：语体与使用频率标注说明（2026-08-22 增补）**
+> 经学习者反馈与复核，本专栏原收录的部分表达在现代德语中**已偏陈旧、文学化或近乎绝迹**。为准确反映真实使用情况，现对每个条目统一加注使用频率标签（详见文末「语体与使用频率标注」专节），标签定义如下：
+> - **【常用】**：现代口语与书面均高频使用，**必须优先掌握、主动输出**。
+> - **【书面】**：正式写作/新闻/公文常用，口语少用——**能识别、写作可用**即可，不必强行口语输出。
+> - **【书面·少用】**：偏书面且口语几乎不用，**只需认识**。
+> - **【文学/陈旧】**：主要见于文学作品或旧文体，现代口语基本不用——**阅读时识别即可，不建议主动使用**。
+> - **【近绝迹】**：极罕见，几乎已从现代德语消失——**了解即可，不建议记忆/使用**。
+> - **【法律公文】**：仅见于法律或极正式文书——**阅读法律文本时识别即可**。
+> ⚠️ 已被标注为「文学/陈旧」「近绝迹」的条目**不构成 B2 必考**，仅为求"全覆盖"而收录，请勿与高频考点混淆。
+
 ---
 
 ## 一、Konzessivsätze 概念与核心认知
@@ -29,7 +39,7 @@
 
 ---
 
-## 二、A2：obwohl — 最基础的让步连词
+## 二、A2：obwohl【常用】— 最基础的让步连词
 
 **规则**：obwohl 引导从句，动词放句末（尾语序）。从句可在主句前或主句后；从句在前时，主句以动词开头。
 
@@ -50,7 +60,7 @@
 
 ---
 
-## 三、A2：trotzdem — "尽管如此"（副词，非连词）
+## 三、A2：trotzdem【常用】— "尽管如此"（副词，非连词）
 
 **规则**：trotzdem **不是连词**，是副词，不引导从句，而是用在主句中表示"尽管如此"，主句保持**正常语序（动词第二位）**。
 
@@ -80,7 +90,7 @@
 
 ---
 
-## 四、B1/B2：dennoch / gleichwohl / nichtsdestotrotz / nichtsdestoweniger — 书面让步副词【补充】
+## 四、B1/B2：dennoch【书面】/ gleichwohl【书面·少用】/ nichtsdestotrotz【口语调侃】/ nichtsdestoweniger【书面·少用】— 书面让步副词【补充】
 
 与 trotzdem 同属让步副词（正语序），但**语体更书面**，用于正式写作和新闻。
 
@@ -103,7 +113,7 @@
 
 ---
 
-## 五、B1/B2：obgleich / obschon — 书面语同义词（+ wenngleich / obzwar 【补充】）
+## 五、B1/B2：obgleich【书面】/ obschon【书面·少用】/ wenngleich【书面】/ obzwar【近绝迹】— 书面语同义词【补充】
 
 **规则**：obgleich 和 obschon 是 obwohl 的书面语同义词，用法完全相同（尾语序），但更正式，多用于文学、新闻、正式文体。
 
@@ -126,7 +136,7 @@
 
 ---
 
-## 六、B1：zwar ... aber / doch — "虽然……但是……"
+## 六、B1：zwar ... aber / doch【常用】/ zwar ... jedoch【书面】/ zwar ... dafür aber【常用】— "虽然……但是……"
 
 **规则**：zwar 与 aber/doch 是**搭配使用的连词**。zwar 在主句中承认一个事实，aber/doch 引出转折；aber/doch 后接**正常语序主句**（非从句）。
 
@@ -166,7 +176,7 @@
 
 ---
 
-## 七、B1/B2：auch wenn / selbst wenn — 假设型让步（让步条件）
+## 七、B1/B2：auch wenn【常用】/ selbst wenn【常用】/ sogar wenn【近绝迹】— 假设型让步（让步条件）
 
 **规则**：表示"即使某个假设/条件存在，结果也不变"，带条件 + 让步双重含义，尾语序。
 
@@ -182,6 +192,8 @@
 | **Auch wenn** es spät ist, rufe ich sie noch an. | 即使很晚了，我还是要给她打电话。 |
 | **Selbst wenn** du mir die halbe Welt schenken würdest, ich bliebe hier. | 就算你把半个世界给我，我也会留在这里。 |
 | **Selbst wenn** es schneit, findet der Markt statt. | 哪怕下雪，集市也会照常举行。 |
+
+> 💡 **sogar wenn**（= selbst wenn，罕见变体）【补充】：*Sogar wenn er sich entschuldigt, glaube ich ihm nicht.*（纵使他说抱歉，我也不信他。）
 
 ### obwohl vs. auch wenn 对比【辨析】
 
@@ -205,7 +217,7 @@
 
 ---
 
-## 八、B1/B2：wenn auch / wenn schon — "即使……也……" 让步 wenn 家族
+## 八、B1/B2：wenn ... auch【文学/陈旧】/ wenn schon【常用习语】— "即使……也……" 让步 wenn 家族
 
 ### wenn ... auch — "即使……也……"
 
@@ -248,7 +260,7 @@
 
 ---
 
-## 九、B2：so + Adjektiv/Adverb + auch — "无论多么……"
+## 九、B2：so + Adjektiv/Adverb + auch【书面·常用，考试重点】— "无论多么……"
 
 **规则**：地道的 B2 让步结构，表达"无论多么……也……"。so 后面紧跟形容词或副词，auch 位于主语和动词之间，从句尾语序（动词在句末）。
 
@@ -271,7 +283,7 @@
 
 ---
 
-## 十、B2：wie + Adj. + auch / so sehr ... auch / ... auch immer — 变体【补充】
+## 十、B2：wie + Adj. + auch【书面/文学】/ so sehr ... auch【书面】/ ... auch immer【书面】— 变体【补充】
 
 ### wie + Adjektiv + auch — "无论多么……"
 
@@ -305,7 +317,7 @@
 
 ---
 
-## 十一、B2：noch so + Adjektiv — "再怎么……也……"
+## 十一、B2：noch so + Adjektiv【常用】— "再怎么……也……"
 
 **规则**：与 so...auch 类似，但语气更强，强调"再怎么……也无济于事"，带无奈感。动词常用尾语序，也可用主句语序。
 
@@ -320,7 +332,7 @@
 
 ---
 
-## 十二、B2：mögen — 让步情态动词【补充】
+## 十二、B2：mögen 让步【书面·少用】/ mochte【文学/陈旧】— 让步情态动词【补充】
 
 **规则**：用情态动词 mögen 表达"就算/即使……也"，后接**不定式在句末**，主句陈述不受影响的结果。表让步时语气书面、委婉。
 
@@ -331,11 +343,13 @@
 | **Mögen** die Gegner es noch so versuchen, wir geben nicht nach. | 就算对手再怎么尝试，我们也不让步。 |
 | **Mag** es regnen oder schneien, wir gehen wandern. | 无论下雨还是下雪，我们都去远足。 |
 
+> 💡 变体【补充】：① **mochte**（Präteritum，文学/书面）：*Mochte er auch noch so bitten, sie blieb hart.*（任凭他如何恳求，她依然心硬。）② 口语让步承认：*Das mag ja alles sein, aber ich bleibe dabei.*（也许这一切都对，但我坚持己见。）
+
 > 📌 记忆：**mögen 让步 = "就算……也"**，常与 noch so 搭配（mögen + noch so + Adj.），是 B2 书面让步的标志结构。
 
 ---
 
-## 十三、B2：egal / einerlei / gleichgültig + 疑问词 — "不管……"
+## 十三、B2：egal【常用】/ einerlei【书面·少用】/ gleichgültig【书面】/ wurscht【口语】+ 疑问词 — "不管……"
 
 **规则**：口语和书面语都常用，表达"无论/不管……都……"。egal 可搭配全部 W-Wort（wer/was/wie/wann/wo/warum）。
 
@@ -368,7 +382,7 @@
 
 ---
 
-## 十四、B2：W-Wort + auch (immer) — "无论谁/什么/怎样"【补充】
+## 十四、B2：W-Wort + auch (immer)【书面】/ + K I 搭配【文学/陈旧】— "无论谁/什么/怎样"【补充】
 
 **规则**：疑问词 + auch / auch immer 构成让步关系从句，表"无论……都"，尾语序，比 egal + W-Wort 更书面、更强调。
 
@@ -389,10 +403,11 @@
 
 > 💡 **egal + W-Wort（口语）↔ W-Wort + auch immer（书面）**对比：`Egal, was passiert, ...` = `Was auch (immer) passiert, ...`，两者语义相同，语体不同。
 > ⚠️ 动词位置：W-Wort + auch 引导的小句**尾语序**（动词在末尾）——`Was auch immer passiert, ...`，不能写 ~~was auch immer es passiert~~ ❌
+> 📌 B2 进阶【补充】：W-Wort + auch immer 可与 **Konjunktiv I**（间接引语/不确定）搭配：*Wer auch immer das behauptet haben mag, es ist nicht bewiesen.*（无论这话是谁说的，都未得到证实。）
 
 ---
 
-## 十五、B2：ob ... oder / ob nun ... oder — "无论……还是……"【补充】
+## 十五、B2：ob ... oder【常用】/ ob nun ... oder【书面】— "无论……还是……"【补充】
 
 **规则**：表"不管是否满足该条件/不管是哪种情况"，结果不变，带让步性质。可省略 ob 只用选择项。尾语序。
 
@@ -408,7 +423,7 @@
 
 ---
 
-## 十六、B2：sei es ... oder ... — "无论是……还是……"
+## 十六、B2：sei es ... oder【书面】/ sei es dass ... sei es dass【近绝迹】— "无论是……还是……"
 
 **规则**：用 Konjunktiv I（命令式同形）表达让步，高度书面，常用于枚举两个（或多个）并列可能性。
 
@@ -429,7 +444,7 @@
 
 ---
 
-## 十七、B2：Konjunktiv I 让步固定式 — Komme was wolle / Wie dem auch sei【补充】
+## 十七、B2：Konjunktiv I 让步固定式 — Wie dem auch sei【常用】/ Komme was wolle【文学/陈旧】/ Was auch kommen mag【文学/陈旧】【补充】
 
 **规则**：用 K I 的固定表达让步，高度书面，常见于演讲、文学、正式书面语。
 
@@ -449,7 +464,7 @@
 
 ---
 
-## 十八、B1/B2：让步介词与名词化表达
+## 十八、B1/B2：让步介词与名词化表达（trotz【常用】/ ungeachtet【书面·少用】/ bei allem【书面】/ allen...zum Trotz【文学/陈旧】/ entgegen【书面】/ wider Erwarten【常用】/ unbeschadet【法律公文】）
 
 除了从句，德语还有介词和名词化的让步表达（书面语重要能力）。
 
@@ -479,6 +494,7 @@
 | **Trotz aller** Schwierigkeiten haben wir es geschafft. | 尽管困难重重，我们还是做到了。 |
 
 > 📌 trotz allem 是固定形式（allem 为中性 Dativ），表"尽管这一切"。
+> 📌 **trotz alledem**（= trotz allem，更书面）【补充】：*Trotz alledem liebten sie sich.*（尽管发生了一切，他们仍相爱。）
 
 ### 3. ungeachtet + Gen. — "不顾/不管……"（B1/B2）
 
@@ -486,6 +502,8 @@
 |------|------|
 | **Ungeachtet** der Schwierigkeiten hat sie es geschafft. | 不顾重重困难，她做到了。 |
 | **Ungeachtet** der Gefahr half er dem Verletzten. | 不顾危险，他救助了伤者。 |
+
+> 📌 ungeachtet 也可**后置**（正式）【补充】：*des Risikos ungeachtet*（不顾风险）
 
 ### 4. dessen ungeachtet — "尽管如此"（书面）【补充】
 
@@ -530,6 +548,8 @@
 | **Wider Erwarten** wurde das Projekt ein Erfolg. | 出乎意料地，项目竟然成功了。 |
 | Er kam **wider Erwarten** pünktlich. | 他出乎意料地准时来了。 |
 
+> 💡 同义【补充】：**gegen alle Erwartungen**（= wider Erwarten，同样常用）：*Gegen alle Erwartungen gewann die Mannschaft.*（出乎所有人意料，球队赢了。）
+
 ### 9. unbeschadet + Gen. — "不妨碍……，尽管"（B2+ 正式/法律）【补充】
 
 | 例句 | 翻译 |
@@ -539,7 +559,7 @@
 
 ---
 
-## 十九、B2：obwohl + Konjunktiv II — 让步与现实反事实【补充】
+## 十九、B2：obwohl + Konjunktiv II【书面，仍在使用】— 让步与现实反事实【补充】
 
 **规则**：当让步从句里的内容**本可以/本应该发生但没发生**时，用 K II（hätte/wäre können 等），表达"尽管（本可以）……却……"的遗憾/对比意味。
 
@@ -611,7 +631,88 @@
 
 ---
 
-## 二十二、常见错误提醒（Fehlerquelle）
+## 二十二、语体与使用频率标注（现代德语真实使用情况 · 重点必读）
+
+> 说明：以下按现代德语实际使用频率归类。**B2 考试只需主动掌握【常用】类**；【书面】类写作/阅读会碰到，能识别即可；【文学/陈旧】【近绝迹】【法律公文】类仅为"全覆盖"而收录，**不构成考点，不建议主动使用**。
+
+### 第一梯队 ·【常用】—— 口语与书面都高频，必须主动掌握
+| 表达 | 级别 | 说明 |
+|------|------|------|
+| obwohl | A2 | 最基础、最常用的让步连词 |
+| trotzdem | A2 | 最常用的让步副词 |
+| zwar ... aber / doch | B1 | 口语书面都高频 |
+| zwar ..., dafür aber | B1 | 口语论证常用（补偿性转折） |
+| auch wenn | B1 | "即使"，常用 |
+| selbst wenn | B1/B2 | "纵使、哪怕"，常用 |
+| wenn schon ... denn schon | B1/B2 | 常用习语 |
+| so + Adj. + auch | B2 | 书面常用，**考试重点** |
+| noch so + Adj. | B2 | 口语书面都常见 |
+| egal + W-Wort | B2 | 最口语化的"不管" |
+| ob ... oder | B2 | "无论……还是"，常用 |
+| Wie dem auch sei | B2 | 口语书面都常用 |
+| trotz + Gen. | B1/B2 | 名物化，常用 |
+| wider Erwarten / gegen alle Erwartungen | B2 | 常用固定短语 |
+| entgegen + Dat. | B2 | 正式但常用（entgegen meiner Erwartung） |
+
+### 第二梯队 ·【书面】—— 正式写作/新闻常用，口语少用，能识别 + 写作可用
+| 表达 | 级别 | 说明 |
+|------|------|------|
+| dennoch | B1 | 书面"然而"，写作提分 |
+| obgleich | B1 | obwohl 的书面替代 |
+| wenngleich | B1/B2 | 新闻常见 |
+| zwar ... jedoch | B1 | 书面 |
+| so sehr ... auch | B2 | 书面 |
+| wie + Adj. + auch | B2 | 书面、偏文学化 |
+| W-Wort + auch (immer) | B2 | 书面（was auch immer passiert） |
+| sei es ... oder | B2 | 正式书面 |
+| ob nun ... oder | B2 | 书面 |
+| obwohl + K II | B2 | 书面（本可以……却……） |
+| bei allem / bei aller + Dat. | B1/B2 | 书面（bei allem Respekt 口语亦见） |
+| trotz allem | B2 | 常用偏书面 |
+| gleichgültig + W-Wort | B2 | 书面 |
+
+### 第三梯队 ·【书面·少用】—— 口语几乎不用，仅需认识
+| 表达 | 级别 | 说明 |
+|------|------|------|
+| obschon | B1 | 略陈旧 |
+| gleichwohl | B1/B2 | 高度书面 |
+| nichtsdestoweniger | B1/B2 | 高度书面 |
+| einerlei + W-Wort | B2 | 书面 |
+| mögen 让步（Er mag noch so reich sein） | B2 | 略陈旧 |
+| ungeachtet + Gen. | B1/B2 | 正式/法律 |
+| dessen ungeachtet | B2 | 高度书面 |
+| trotz alledem | B2 | 略陈旧 |
+
+### 第四梯队 ·【文学/陈旧】—— 现代口语基本不用，阅读时识别即可
+| 表达 | 级别 | 说明 |
+|------|------|------|
+| wenn ... auch | B1 | 现代多用 auch wenn 替代 |
+| mochte 让步（Präteritum） | B2 | 文学 |
+| Komme was wolle | B2 | 文学固定式 |
+| Was auch kommen mag | B2 | 文学 |
+| allen ... zum Trotz（dem Regen zum Trotz） | B2 | 文学 |
+| W-Wort + auch immer + K I（behauptet haben mag） | B2 | 文学/陈旧 |
+
+### 第五梯队 ·【近绝迹】—— 几乎已从现代德语消失，了解即可
+| 表达 | 级别 | 说明 |
+|------|------|------|
+| obzwar | B1/B2 | 近绝迹，仅奥地利地区残留 |
+| sogar wenn | B1/B2 | 罕见（一律改用 selbst wenn） |
+| sei es dass ... sei es dass | B2 | 极书面，近绝迹 |
+
+### 第六梯队 ·【法律公文】—— 仅法律/极正式文书
+| 表达 | 级别 | 说明 |
+|------|------|------|
+| unbeschadet + Gen. | B2+ | 仅法律/极正式文书 |
+
+### 一句话总结
+**口语日常只需掌握：** obwohl / trotzdem / zwar...aber / auch wenn / selbst wenn / egal / ob...oder / noch so 即可应付绝大多数场景；
+**书面写作再加：** dennoch / obgleich / so...auch / sei es...oder / trotz + Gen.；
+**其余（obzwar、mochte、Komme was wolle、allen...zum Trotz、obschon、wenn...auch 等）：** 认识即可，**不必主动使用**，考试不会考。
+
+---
+
+## 二十三、常见错误提醒（Fehlerquelle）
 
 | 错误 | 正确 | 说明 |
 |------|------|------|
@@ -628,7 +729,7 @@
 
 ---
 
-## 二十三、记忆技巧
+## 二十四、记忆技巧
 
 1. **obwohl = 踢**（动词踢到末尾）— 最常用，口语首选
 2. **trotzdem = 顶回去**（"尽管如此"仍……）— 副词，主句语序；书面升级 = dennoch
@@ -648,7 +749,8 @@
 
 ## 更新记录
 
-- **2026-08-15**：整合创建。合并 2026-05-15 / 08-04 / 08-06 / 08-07 / 08-13 全部让步从句内容，补充 B2 以下遗漏项：书面让步副词（dennoch/gleichwohl/nichtsdestotrotz/nichtsdestoweniger）、书面连词（wenngleich/obzwar）、zwar...jedoch / zwar...dafür aber、auch wenn + K II 非现实让步、wenn auch 省略式、wenn (auch) nicht...so doch、wie+Adj.+auch / so sehr...auch / ...auch immer、mögen 让步、gleichgültig/wurscht + W-Wort、W-Wort + auch (immer) 全家族、ob...oder(nun)、sei es dass...sei es dass、K I 固定式（Komme was wolle / Wie dem auch sei）、让步介词补充（trotz allem/bei aller/allen...zum Trotz/dessen ungeachtet/entgegen/wider Erwarten/unbeschadet）、obwohl + K II 反事实、让步相关词汇。
+- **2026-08-15**：整合创建。合并 2026-05-15 / 08-04 / 08-06 / 08-07 / 08-13 全部让步从句内容，补充 B2 以下遗漏项：书面让步副词（dennoch/gleichwohl/nichtsdestotrotz/nichtsdestoweniger）、书面连词（wenngleich/obzwar）、zwar...jedoch / zwar...dafür aber、auch wenn + K II 非现实让步、wenn auch 省略式、wenn (auch) nicht...so doch、wie+Adj.+auch / so sehr...auch / ...auch immer、mögen 让步（+ mochte 变体 / Das mag ja alles sein）、gleichgültig/wurscht + W-Wort、W-Wort + auch (immer) 全家族（+ K I 搭配）、ob...oder(nun)、sei es dass...sei es dass、K I 固定式（Komme was wolle / Wie dem auch sei）、让步介词补充（trotz allem/alledem/bei aller/allen...zum Trotz/dessen ungeachtet/ungeachtet 后置/entgegen/wider Erwarten/gegen alle Erwartungen/unbeschadet）、sogar wenn、obwohl + K II 反事实、让步相关词汇。
+- **2026-08-22**：经反馈复核，新增「语体与使用频率标注」专节（第二十二节）与章节标题频率标签。将 obzwar、sogar wenn、sei es dass...sei es dass 标注为【近绝迹】；wenn...auch、mochte、Komme was wolle、Was auch kommen mag、allen...zum Trotz、W-Wort+auch immer+K I 标注为【文学/陈旧】；obschon、gleichwohl、nichtsdestoweniger、einerlei、mögen 让步、ungeachtet、dessen ungeachtet、trotz alledem 标注为【书面·少用】；unbeschadet 标注为【法律公文】。
 
 ## 复习要点
 - [ ] obwohl（尾语序）与 trotzdem（主句语序）的语序差异与互转
