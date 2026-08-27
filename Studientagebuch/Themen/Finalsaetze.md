@@ -22,7 +22,7 @@
 |------|----------|------|
 | 从属连词（Nebensatz） | damit | 动词末尾（尾语序） |
 | 不定式结构（Infinitiv） | um ... zu | 无主语，zu + 不定式 |
-| 介词短语（Nominalisierung） | zu + Dat, für + Akk, zwecks + Gen, um...willen | 无动词，名词化结构 |
+| 介词短语（Nominalisierung） | zu + Dat, für + Akk, zwecks + Gen, um...willen, zuliebe + Dat（后置） | 无动词，名词化结构 |
 | 提问词 | wozu / zu welchem Zweck / wofür | — |
 
 > 📌 核心逻辑：**目的 = 主观意图（未发生）**，与结果从句 sodass（客观结果，已发生）相对。详见第十节辨析。
@@ -130,6 +130,17 @@ damit 从句中情态动词（尤其 **können**）极常见，表达"以便能�
 |------|------|
 | Er verließ die Stadt früh, **um** das Ziel rechtzeitig erreicht **zu haben**. | 他早早离开城市，为了按时到达目的地。 |
 
+### 7. um...zu + 情态动词（B1/B2）【常用】（补充）
+
+um...zu 结构可嵌入情态动词，构成 **um + ... + 情态动词不定式 + zu + 实义动词不定式**，表达"以便能够/想要……"：
+
+| 例句 | 翻译 |
+|------|------|
+| Ich lerne Deutsch, **um** mich mit Deutschen unterhalten **zu können**. | 我学德语，以便能和德国人交流。 |
+| Er spart, **um** sich ein Auto kaufen **zu können**. | 他存钱，以便能买辆车。 |
+
+> 📌 语序：情态动词不定式（können / wollen）位于 **zu + 实义动词不定式** 之前：um ... unterhalten zu **können**。
+
 ---
 
 ## 四、A2/B1：程度 + 目的混合结构（已讲：05-15 / Infinitiv_mit_zu 第五节）
@@ -150,6 +161,7 @@ damit 从句中情态动词（尤其 **können**）极常见，表达"以便能�
 
 > 📌 **zu...um zu**（主语一致）与 **zu...als dass**（主语可不同 + K II）的语境判断是 05-15 练习中的重点（详见 Infinitiv_mit_zu 专栏第五节）。
 > ⚠️ genug 位置：形容词后（alt **genug**）；名词前（**genug** Zeit）。
+> ⚠️ genug 的否定：**nicht genug ... um zu**（"不够……而不能"），否定词在 genug 前：Er ist **nicht** alt **genug, um** Auto zu fahren. 他还不到能开车的年龄。
 
 ---
 
@@ -245,7 +257,18 @@ wozu → **dazu**；wofür → **dafür**：
 | **Um des Friedens willen** gab er nach. | 为了和平的缘故，他让步了。 |
 | **Um Himmels willen!** | 看在老天的份上！（感叹，仍常用） |
 
-### 6. 从句 → 介词短语转换表
+### 6. jemandem zuliebe — "为了……起见"【常用】（补充）
+
+后置介词 zuliebe 接 **Dativ**，放在名词之后，表达"为了……的缘故/讨……喜欢"，多带情感色彩：
+
+| 例句 | 翻译 |
+|------|------|
+| Ich bleibe **meiner Familie zuliebe** zu Hause. | 为了家人，我留在家里。 |
+| **Dir zuliebe** komme ich mit. | 为了你，我一起去。 |
+
+> 📌 语序：zuliebe 永远后置（meiner Familie **zuliebe**），是现代德语中 um...willen 的常用替代。
+
+### 7. 从句 → 介词短语转换表
 
 | 目的从句 | 介词短语 |
 |----------|----------|
@@ -390,6 +413,8 @@ führen (führte → hat geführt)：**导致**某结果（本身是结果表达
 | 答 | weil | um...zu / damit / zum... |
 | 例 | Warum bist du spät gekommen? — Weil der Bus Verspätung hatte. | Wozu lernst du? — Um die Prüfung zu bestehen. |
 
+> 📌 补充：**weshalb / weswegen**【书面】基本同 warum（可问原因，偶问目的），口语用 warum / wozu 即可。
+
 ### 4. damit 一词多义（补充）
 
 | 用法 | 词性 | 例 |
@@ -430,6 +455,9 @@ führen (führte → hat geführt)：**导致**某结果（本身是结果表达
 | A2 | wozu 提问 | 疑问词 | 常用 | 为什么目的 |
 | A2 | zu + Adj + um zu | 不定式（同主语） | 常用 | 太……而不能 |
 | A2/B1 | genug + Adj + um zu | 不定式（同主语） | 常用 | 足够……可以 |
+| A2/B1 | nicht genug + Adj + um zu | 不定式（同主语） | 常用 | 不够……而不能 |
+| B1/B2 | um ... + 情态动词 + zu | 不定式（um ... zu können） | 常用 | 以便能够…… |
+| B2 | jemandem zuliebe + Dat | 后置介词短语 | 常用 | 为了……起见 |
 | B1 | nicht um...zu, sondern um...zu | 不定式 | 常用 | 不是为……而是为…… |
 | B1 | zu + Dat（zum/zur + 名词化） | 介词短语 | 常用 | 为了……（名物化） |
 | B1 | für + Akk | 介词短语 | 常用 | 为了（事物/人/目标） |
@@ -463,6 +491,8 @@ führen (führte → hat geführt)：**导致**某结果（本身是结果表达
 | wozu / wofür 提问 | A2/B1 | 口语高频 |
 | zu + Adj + um zu / genug + um zu | A2/B1 | 程度+目的 |
 | nicht um...zu, sondern um...zu | B1 | 对比目的 |
+| um ... + 情态动词 + zu | B1/B2 | 以便能够…… |
+| jemandem zuliebe | B2 | 为了……起见（情感色彩） |
 | zum / zur + 名词化 | B1 | 名物化主力 |
 | für + Akk | B1 | 常用 |
 | dazu / dafür 代副词 | B1 | 常用 |
@@ -548,6 +578,8 @@ führen (führte → hat geführt)：**导致**某结果（本身是结果表达
 
 - **2026-08-23**：创建专栏。整合 2026-05-12（damit 入门）、05-13（um...zu/damit 对比 + zu 位置）、05-15（zu...um zu / genug...um zu / zu...als dass）、08-04（主语判断规则三家族通用 + da(r)- 体系）、08-07 模块 6/8（Finalsätze 基础 + 结果 vs 目的辨析）、Themen/Infinitiv_mit_zu（第五节程度结构、第六节主语一致性、被动不定式、Korrelat）全部已讲内容；补充 B2 以下遗漏项：Wozu/Zu welchem Zweck/Wofür 提问体系、否定目的、nicht...sondern 对比目的、被动/完成时不定式目的、zu/für/zwecks/um...willen 介词名物化、Absicht/Zweck/Ziel/Vorhaben 词族辨析、in der Absicht/in der Hoffnung 结构、beabsichtigen/bezwecken/anstreben/abzielen/dienen zu 目的动词、es geht darum/dafür sorgen/sich einsetzen/dazu führen 结构、wozu vs warum 辨析、um 多义辨析、auf dass。全文按 AGENTS.md 六频标签标注语体。
 
+- **2026-08-25**：完备性复查。补充遗漏：um...zu + 情态动词（um ... zu können）、nicht genug ... um zu 否定结构、jemandem zuliebe（后置介词 + Dativ）、weshalb/weswegen 用法说明；同步更新总览表、总结表与频率分层。
+
 ## 复习要点
 
 - [ ] damit vs um...zu 主语判断（三家族通用规则）
@@ -560,6 +592,8 @@ führen (führte → hat geführt)：**导致**某结果（本身是结果表达
 - [ ] dazu führen, dass（结果）vs damit（目的）区分
 - [ ] sodass vs damit 语义方向（已发生 vs 未发生）
 - [ ] 冷门项仅识别：zwecks / um...willen / auf dass / zum Zweck
+- [ ] um ... zu können 情态动词不定式语序
+- [ ] zuliebe 后置介词 + Dativ（meiner Familie zuliebe）
 
 ## 下次学习建议
 

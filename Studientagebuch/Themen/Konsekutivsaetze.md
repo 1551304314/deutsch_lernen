@@ -66,6 +66,7 @@
 | Sie hat **genug Geld**, **um** sich ein Auto zu kaufen. | 她有足够的钱买一辆车。 |
 
 > 📌 记忆：**形容词在前，genug 在后**（alt genug）；但 **genug + 名词在前**（genug Geld）。对比中文"足够大"，语序正好相反！
+> ⚠️ genug 的否定：**nicht genug ... um zu**（"不够……而不能"），否定词在 genug 前：Er ist **nicht** alt **genug, um** Auto zu fahren. 他还不到能开车的年龄。
 
 ---
 
@@ -105,6 +106,16 @@
 
 > ⚠️ **so...dass（结果）vs so...wie（比较）**：so...wie = 比较（"和他一样高"）；so...dass = 结果（"如此……以至于"）。只有搭配 dass 才是结果从句。
 > ⚠️ dass 从句动词必须落尾：...dass ich einschlief（einschlief 已在末尾）。
+
+### 辨析：so...dass（结果实际发生）vs zu...um zu（限度被突破，必为"不能"）【补充】
+
+| | so + Adj. + dass | zu + Adj. + um...zu |
+|------|------|------|
+| 语义 | 结果**确实发生**，正负皆可 | 结果**不能发生**，必为否定结果 |
+| 例 | Er war **so** fit, **dass** er den Marathon schaffte. 他状态那么好，跑完了马拉松。（正结果） | Er war **zu** müde, **um** zu arbeiten. 他太累了，没法工作。（负结果） |
+| 例 | Sie ist **so** krank, **dass** sie nicht kommen kann. | Sie ist **zu** krank, **um** zu kommen. |
+
+> 📌 语义接近时二者可互换：so schwach, **dass** er nicht stehen kann ≈ **zu** schwach, **um** zu stehen。
 
 ---
 
@@ -198,6 +209,7 @@
 | folglich | 因此、因而 | 【书面】 |
 | infolgedessen | 因此（字面"出于此结果"） | 【书面】 |
 | demnach | 由此可见、因此 | 【书面】 |
+| dementsprechend | 相应地、据此 | 【书面】 |
 | somit | 因而、这样一来 | 【书面】 |
 | mithin | 因此、可见 | 【书面·少用】 |
 | deshalb/deswegen/darum/daher | 因此、所以（详见原因专栏） | 通用【常用】 |
@@ -207,6 +219,7 @@
 | Er hat verschlafen, **folglich** kam er zu spät. | 他睡过头了，因此迟到了。 |
 | Es schneite stark, **infolgedessen** wurde der Flug gestrichen. | 雪下得很大，因此航班被取消了。 |
 | Sie hat viel gelernt, **demnach** wird sie bestehen. | 她学了很多，由此可见她会通过的。 |
+| Er ist krank, **dementsprechend** bleibt er zu Hause. | 他病了，因而（相应地）待在家里。 |
 
 > 💡 互通链条：**sodass 从句 ↔ 主句 + 结果副词**：Er kam zu spät, **sodass** er den Zug verpasste. ↔ Er kam zu spät, **deshalb/infolgedessen** verpasste er den Zug.
 > ⚠️ deshalb 家族已收入《原因从句》专栏；本专栏重点为"纯结果"副词 folglich 家族。
@@ -252,6 +265,22 @@
 3. 从句主语 → Genitiv；其余定语一并转换
 ```
 
+### 4. 结果名词词族辨析（B1/B2）【补充】
+
+| 名词 | 词性·复数 | 含义 | 侧重点 |
+|------|-----------|------|--------|
+| die **Folge** | die, -n | 结果、后果 | 直接结果，最常用 |
+| das **Ergebnis** | das, -se | 结果、成果 | 计算/调查/考试的结果 |
+| die **Konsequenz** | die, -en | 后果（常负面） | 需承担的行为后果 |
+| die **Auswirkung** | die, -en | 影响、效应 | 对……产生的影响 |
+
+| 例句 | 翻译 |
+|------|------|
+| Die **Folge** des Unfalls war ein langer Stau. | 事故的结果是长时间堵车。 |
+| Das **Ergebnis** der Prüfung war gut. | 考试结果不错。 |
+| Er muss die **Konsequenzen** tragen. | 他必须承担后果。 |
+| Der Klimawandel hat **Auswirkungen** auf die ganze Welt. | 气候变化对全世界都有影响。 |
+
 ---
 
 ## 十一、B2：高级结果表达【补充】
@@ -290,6 +319,7 @@
 |------|------|------|------|------|------|
 | A2 | zu + Adj. + um...zu | 不定式（同主语） | 太……而不能 | 常用 | 【已学】 |
 | A2/B1 | Adj. + genug + um...zu | 不定式 | 足够……可以 | 常用 | 【已学】 |
+| A2/B1 | nicht genug + Adj. + um...zu | 不定式 | 不够……而不能 | 常用 | 【补充】 |
 | B1 | sodass（= so dass） | 尾语序，不可句首 | 所以、以至于 | 常用 | 【已学】 |
 | B1 | so + Adj./Adv. + dass | 尾语序 | 如此……以至于 | 常用 | 【已学】 |
 | B1 | genug + N. + um...zu | 不定式 | 有足够……可以 | 常用 | 【已学】 |
@@ -297,7 +327,7 @@
 | B2 | solch- + N. + dass | 尾语序 | 这样的……以至于 | 书面 | 【补充】 |
 | B2 | so ein/eine + N. + dass | 尾语序 | 那么一个……以至于 | 常用（口语） | 【补充】 |
 | B1 | derart/dermaßen + dass | 尾语序 | 如此/这般……以至于 | 书面·少用 | 【补充】 |
-| B1 | also / folglich / infolgedessen / demnach / somit / mithin | 正语序（占位1） | 因此、由此可见 | 常用/书面 | 【补充】 |
+| B1 | also / folglich / infolgedessen / demnach / dementsprechend / somit / mithin | 正语序（占位1） | 因此、由此可见 | 常用/书面 | 【补充】 |
 | B1 | infolge + Gen. | 介词短语 | 由于……的结果 | 书面 | 【已学】 |
 | B1 | zufolge + Dat.（后置） | 介词短语 | 根据、按照 | 书面 | 【补充】 |
 | B1 | zur Folge haben / dazu führen, dass | 主句 + 尾语序 | 导致…… | 书面 | 【补充】 |
@@ -326,6 +356,7 @@
 | solch- + N + dass | B2 | 名词性程度+结果 |
 | zu + Adj. + als dass + K II | B1/B2 | 异主语"太……不能" |
 | folglich / demnach / infolgedessen / somit | B1 | 书面结果副词 |
+| dementsprechend | B1 | 书面"相应地" |
 | infolge + Gen | B1 | 名物化"因……的结果" |
 | zufolge + Dat.（后置） | B1 | 实为"根据"（依据义，非结果） |
 | zur Folge haben / dazu führen, dass / führen zu | B1 | 动词化"导致" |
@@ -386,6 +417,7 @@
 
 - **2026-08-20**：整合创建。合并 2026-05-15 / 08-04 / 08-07 全部结果从句内容，补充 B2 以下遗漏项：结果 vs 目的判定法、程度副词扩展（so viel / so sehr / so lange）、derart/dermaßen + dass、结果副词家族（folglich / infolgedessen / demnach / also / somit / mithin）、sodass ↔ 结果副词互换、结果名物化（infolge 深化、zufolge、zur Folge haben / dazu führen, dass）、B2 高级（sodass + KII、四种写法互转、语体梯度）。
 - **2026-08-25**：全文按 AGENTS.md 六频标签标准重排，补齐 B2 及以下**全部必考**结果表达：新增 **solch- + N + dass（名词性程度+结果）** 与 **so ein/eine + N + dass（口语版）**，含 solch- 变格规则；修正 zufolge（实为"根据/依据"，非结果义）辨析；新增「语体与使用频率标注」专节，区分常用/书面/书面·少用三梯队；补充 so 修饰形容词 vs solch- 修饰名词的易错点。
+- **2026-08-25（二次）**：完备性复查。补充遗漏：nicht genug ... um zu 否定结构、so...dass（实际结果）vs zu...um zu（限度突破）辨析、结果副词 dementsprechend、结果名词词族 Folge / Ergebnis / Konsequenz / Auswirkung 辨析；同步更新总结表与频率分层。
 
 ## 复习要点
 
@@ -400,6 +432,9 @@
 - [ ] 名物化：sodass → infolge + Genitiv；zur Folge haben / dazu führen, dass
 - [ ] so...dass（结果）vs so...wie（比较）区分
 - [ ] infolge（结果）vs zufolge（根据）区分
+- [ ] nicht genug ... um zu 否定结构（nicht 在 genug 前）
+- [ ] so...dass（实际结果，正负皆可）vs zu...um zu（限度突破，必为"不能"）
+- [ ] Folge / Ergebnis / Konsequenz / Auswirkung 四词辨析
 
 ## 下次学习建议
 

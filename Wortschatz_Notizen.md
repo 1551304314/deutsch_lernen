@@ -1,6 +1,6 @@
 # 从句练习生词笔记（Wortschatz-Notizen）
 
-> 本笔记汇总三套从句习题集（原因从句 / 条件从句 / 让步从句）中标黄的 **42 个生词**，附词性、三形变 / 复数、搭配与例句，供集中复习。随批改新增的生词持续追加。
+> 本笔记汇总五套从句习题集（原因从句 / 条件从句 / 让步从句 / 目的·方式·结果从句 / 三合一综合卷）中标黄的 **58 个生词**，附词性、三形变 / 复数、搭配与例句，供集中复习。随批改新增的生词持续追加。
 
 ---
 
@@ -205,4 +205,94 @@
 
 ---
 
-*共 42 个生词。复习提示：动词重点记三形变与助动词（尤其 sein/haben 区分），名词记词性与复数，介词搭配（aus/vor/durch、zur Verfügung、aus Neugier 等）反复朗读巩固。*
+## 四、目的 · 方式 · 结果从句（Finalsätze · Modalsätze · Konsekutivsätze）· 11 个
+
+#### 1. erklären（动词）· 解释，讲解
+- **语法**：erklären → erklärte → hat erklärt（规则，助动词 haben）
+- **搭配**：jdm. etw. erklären 给某人解释某事
+- **例句**：Die Mutter erklärt den Kindern die Aufgabe.（妈妈给孩子们讲解题目。）
+
+#### 2. regelmäßig（形容词）· 有规律的，定期的
+- **语法**：比较级 regelmäßiger，最高级 am regelmäßigsten
+- **搭配**：regelmäßig Sport treiben 定期运动
+- **例句**：Er treibt regelmäßig Sport.（他定期运动。）
+
+#### 3. sparen（动词）· 节省，存钱
+- **语法**：sparen → sparte → hat gespart（规则，助动词 haben）
+- **搭配**：auf etw. (Akk) sparen 攒钱买某物；Geld sparen 省钱
+- **例句**：Sie spart auf ein neues Auto.（她攒钱买新车。）
+
+#### 4. verlassen（动词）· 离开（及物，必须带宾语）
+- **语法**：verlassen → verließ → hat verlassen（强变化，不可分，助动词 haben）
+- **搭配**：das Haus / die Stadt / das Zimmer verlassen
+- **例句**：Er verließ um 8 Uhr das Haus.（他八点离开了家。）
+- **易错点**：不能只说 ~~Er hat verlassen~~，必须带宾语；口语"离开"常用 weggehen（ist weggegangen）。
+
+#### 5. verbessern（动词）· 改善，提高
+- **语法**：verbessern → verbesserte → hat verbessert（规则，助动词 haben）
+- **搭配**：die Aussprache verbessern 改善发音；反身 sich verbessern 进步
+- **例句**：Er verbessert seine Aussprache, indem er laut liest.（他通过朗读提高发音。）
+
+#### 6. merken（动词）· 察觉，注意到
+- **语法**：merken → merkte → hat gemerkt（规则，助动词 haben）
+- **搭配**：sich (Dat.) etw. merken 记住
+- **例句**：Er merkte nicht, dass es regnete.（他没注意到下雨了。）
+
+#### 7. der Unfall（名词，复 die Unfälle）· 事故
+- **搭配**：ein Unfall passiert 发生事故；einen Unfall haben 遭遇事故
+- **例句**：Infolge des Unfalls war die Straße gesperrt.（由于事故，道路被封锁。）
+
+#### 8. sperren（动词）· 封锁，关闭
+- **语法**：sperren → sperrte → hat gesperrt（规则，助动词 haben）；PII gesperrt 常用作形容词"被封锁的"
+- **例句**：Die Straße ist wegen Bauarbeiten gesperrt.（道路因施工封闭。）
+
+#### 9. tagsüber（副词）· 白天，日间
+- **反义**：nachts 夜间；abends 晚上
+- **例句**：Er arbeitet tagsüber und lernt abends.（他白天工作，晚上学习。）
+
+#### 10. verbringen（动词）· 度过（时间）
+- **语法**：verbringen → verbrachte → hat verbracht（强变化，不可分，助动词 haben）
+- **搭配**：Zeit mit jdm. verbringen 与某人共度时光；die Ferien verbringen 度假
+- **例句**：Sie verbringt viel Zeit mit ihrer Familie.（她和家人共度很多时光。）
+
+#### 11. bankrottgehen（动词，可分）· 破产
+- **语法**：bankrottgehen → ging bankrott → ist bankrottgegangen（可分，强变化，助动词 **sein**）
+- **例句**：Viele Firmen gingen bankrott.（许多公司破产了。）
+- **易错点**：主句中可分动词分开（gingen ... bankrott），从句中合并尾语序（dass viele Firmen bankrottgingen）。
+
+---
+
+## 五、原因 · 条件 · 让步三合一综合卷（2026-08-26）· 5 个
+
+#### 1. verschlafen（动词，不可分）· 睡过头
+- **语法**：verschlafen → verschlief → verschlafen（强变化，不可分，助动词 haben）
+- **搭配**：den Wecker verschlafen 睡过头没听见闹钟
+- **例句**：Er kommt zu spät, weil er gestern verschlafen hat.（他迟到了，因为昨天睡过头了。）
+
+#### 2. verpassen（动词，不可分）· 错过（车 / 机会）
+- **语法**：verpassen → verpasste → verpasst（规则，助动词 haben）
+- **搭配**：den Zug / den Bus verpassen 错过火车 / 公交；die Chance verpassen 错过机会
+- **例句**：Falls ich den Zug verpasse, nehme ich den nächsten.（万一我错过火车，就坐下一班。）
+
+#### 3. der Verletzte（名词化形容词，弱变化）· 伤者，伤员
+- **语法**：来自形容词 verletzt（受伤的），名词化后按形容词变格：der Verletzte / ein Verletzter / dem Verletzten
+- **相关**：die Verletzung 伤；verletzen 使受伤
+- **例句**：Trotz der großen Gefahr half er dem Verletzten.（不顾巨大的危险，他救助了伤者。）
+- **易错点**：dem Verletzten（三格弱变化加 -n），不可写 ~~dem Verletzen~~。
+
+#### 4. joggen（动词）· 慢跑
+- **语法**：joggen → joggte → gejoggt（规则，助动词 haben 或 sein 均可，常用 haben）
+- **辨析**：joggen（慢跑，运动）≠ spazieren gehen（散步，休闲）
+- **例句**：Auch wenn es regnet, gehe ich joggen.（即使下雨，我也去慢跑。）
+
+#### 5. sich (Dat.) etw. (Akk.) leisten（反身动词）· 负担得起，买得起
+- **语法**：leisten → leistete → geleistet（规则，助动词 haben）；反身代词用**三格**
+- **搭配**：sich (Dat.) etw. (Akk.) leisten (können) 负担得起某物
+- **例句**：Er ist noch so reich, er kann sich das nicht leisten.（他再怎么有钱，也买不起这个。）
+- **易错点**：是 sich (Dat.) leisten（给自己买得起），不是 ~~sich (Akk.)~~。
+
+> 📌 **复习提醒（2026-08-26 批改）**：本卷标黄生词 weinen（哭）已收录于第一节第 20 条，本次再次标黄，说明尚未完全掌握，请重点复习：weinen → weinte → geweint + 搭配 vor Freude weinen。
+
+---
+
+*共 58 个生词。复习提示：动词重点记三形变与助动词（尤其 sein/haben 区分：ausgehen、bankrottgehen、aufstehen 用 sein），名词记词性与复数（名词化形容词 der Verletzte 按弱变化变格），介词搭配（auf etw. sparen、Zeit mit jdm. verbringen 等）反复朗读巩固。*

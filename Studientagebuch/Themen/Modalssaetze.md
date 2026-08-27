@@ -22,8 +22,10 @@
 | 类型 | 连接手段 | 语序 |
 |------|----------|------|
 | 从属连词（Nebensatz） | indem, dadurch dass, ohne dass, (an)statt dass, wie, wobei, als ob, als wenn, als | 动词末尾（尾语序；als 为 V1） |
+| 限制性连词 | soweit, soviel, insofern...als, je nachdem, wie | 尾语序 |
 | 不定式结构 | ohne...zu, (an)statt...zu | 无主语，zu + 不定式句末 |
 | 介词短语（名物化） | durch + Akk, ohne + Akk, mithilfe + Gen, mittels + Gen | 无动词 |
+| 提问词 | wie / wodurch / womit | — |
 
 ### 两大判断主线（贯穿全专题）
 
@@ -158,6 +160,28 @@
 | Er ist **so** groß **wie** sein Vater. | 他和他父亲一样高。 |
 | Sie arbeitet **so** schnell **wie** möglich. | 她尽可能快地工作。 |
 
+### 辨析：als 的三重身份（方式 vs 比较 vs 时间）【补充】
+
+| als 的用法 | 语序/要求 | 例 | 频率 |
+|------------|-----------|-----|------|
+| ① 比较连词"比"（比较级后） | 名词/代词 | Er ist größer **als** ich. | 【常用】 |
+| ② 时间连词"当……时"（过去一次性） | 尾语序 | **Als** er kam, war ich weg. | 【常用】 |
+| ③ 非现实比较"仿佛" | V1 + KII | Er tut so, **als wäre** er krank. | 【书面】 |
+
+> ⚠️ 三者勿混：比较级后用 als（+Indikativ）；时间从句 als（尾语序）；非现实比较 als（V1 + KII）。
+
+### 限制性方式从句（Restriktivsatz）【补充】
+
+限定主句陈述的适用范围 / 信息来源，B1 高频：
+
+| 连词 | 含义 | 例 | 频率 |
+|------|------|-----|------|
+| **soweit** | 就……所知/所及 | **Soweit** ich weiß, ist das richtig. 就我所知，这是对的。 | 【常用】 |
+| **soviel** | 就……所知 | **Soviel** ich gehört habe, kommt er morgen. 据我所闻，他明天来。 | 【常用】 |
+| **insofern, als** | 在……范围内 | Der Plan war **insofern** erfolgreich, **als** er Zeit sparte. 该计划在节省时间方面是成功的。 | 【书面】 |
+
+> 📌 **Soweit ich weiß** / **soviel ich weiß** 是口语高频句首结构，B1 必会。
+
 ---
 
 ## 八、B1/B2：wobei — "与此同时 / 边……边……"（伴随方式）【常用】【补充】
@@ -173,6 +197,16 @@
 > 📌 wobei 的其他身份（辨析）：
 > - 疑问副词：**Wobei** kann ich dir helfen? 我能帮你什么？
 > - 关系代副词：das Projekt, **wobei** er mitarbeitet.（他参与的那个项目）
+
+### wobei vs indem 辨析【补充】
+
+| 连词 | 语义 | 侧重点 |
+|------|------|--------|
+| **indem** | 通过……（方式手段） | 主句动作用**何种方法**实现 |
+| **wobei** | 与此同时（伴随情况） | 主句动作进行时**附带发生**的状态 |
+
+> 例：Er lernt, **indem** er Karteikarten schreibt.（方式：靠写卡片）
+> 例：Er lernt, **wobei** er Musik hört.（伴随：听着音乐——并非学习方法）
 
 ---
 
@@ -236,6 +270,14 @@ so tun, als ob（装作）；aussehen, als ob（看起来）；sich anfühlen, a
 
 > 📌 归入条件专栏（比例/递进条件），此处仅作方式比较家族的关联收录。
 
+### 关联结构：je nachdem, wie — "视……而定"【常用】【补充】
+
+| 例句 | 翻译 |
+|------|------|
+| **Je nachdem, wie** schnell du lernst, brauchst du mehr oder weniger Zeit. | 视你学习速度而定，你需要的时间或多或少。 |
+
+> 📌 完整结构 **je nachdem, wie/ob/wann/was + 从句**（B1/B2），表方式随情况变化，与 je...desto 同属 je 家族。
+
 ---
 
 ## 十一、B1/B2：方式名物化（Nominalisierung）【补充】
@@ -282,6 +324,9 @@ so tun, als ob（装作）；aussehen, als ob（看起来）；sich anfühlen, a
 | B1 | mittels + Gen / statt + Gen | 介词短语 | 借助/代替 | 书面 | 【补充】 |
 | B2 | ohne ... zu haben（完成时不定式） | 不定式（先时） | 没……就 | 书面 | 【补充】 |
 | B2 | als ob + K I / wie wenn | 尾语序 | 好像 | 书面·少用 | 【补充】 |
+| B1 | soweit / soviel | 尾语序 | 就……所知 | 常用 | 【补充】 |
+| B1/B2 | je nachdem, wie | 尾语序 | 视……而定 | 常用 | 【补充】 |
+| B2 | insofern, als | 尾语序 | 在……范围内 | 书面 | 【补充】 |
 
 ---
 
@@ -299,6 +344,8 @@ so tun, als ob（装作）；aussehen, als ob（看起来）；sich anfühlen, a
 | als ob / als wenn | B1 | 非现实比较最常用 |
 | je...desto / umso | B1 | 比例 |
 | durch + Akk / ohne + Akk / mithilfe + Gen | B1 | 方式名物化 |
+| soweit / soviel（Soweit ich weiß） | B1 | 就……所知，口语高频 |
+| je nachdem, wie | B1/B2 | 视……而定 |
 
 ### 第二梯队 ·【书面】—— 正式写作/新闻常用，口语少用（识别 + 写作可用）
 
@@ -308,6 +355,7 @@ so tun, als ob（装作）；aussehen, als ob（看起来）；sich anfühlen, a
 | als（单独 V1） | B1 | 书面/文学体 |
 | ohne ... zu haben（完成时不定式） | B2 | 先时缺失 |
 | mittels + Gen | B1 | 公文"借助" |
+| insofern, als | B2 | 在……范围内 |
 
 ### 第三梯队 ·【书面·少用】—— 口语几乎不用，仅需认识
 
@@ -360,6 +408,8 @@ so tun, als ob（装作）；aussehen, als ob（看起来）；sich anfühlen, a
 
 - **2026-08-25**：创建专栏。整合 2026-08-04（indem / ohne dass / ohne...zu / statt dass / statt...zu / dadurch dass + 总结表）、08-07 模块 10（主语判断规则三家族通用）、08-12（als ob 后 KII 高频错误）全部已讲内容；补充 B2 及以下遗漏项：**wie + 从句（现实方式比较）**、**wobei（伴随方式）**、indem/dadurch dass/damit 辨析、dadurch 的 Korrelat 两位置、**ohne...zu 完成时不定式**、als ob 四变体（含 K I）、wie wenn、方式名物化（durch/ohne/mithilfe/mittels/statt）、现实 vs 非现实比较主线。全文按 AGENTS.md 六频标签标注语体。
 
+- **2026-08-25**：完备性复查。补充遗漏：提问词 wie/wodurch/womit、als 三重身份辨析、限制性方式从句 soweit/soviel/insofern...als、wobei vs indem 辨析、je nachdem, wie 关联结构；同步更新总结表与频率分层。
+
 ## 复习要点
 
 - [ ] 主语判断规则：同主语 → ohne/statt...zu；异主语 → ohne/statt dass（各造 2 句）
@@ -371,6 +421,8 @@ so tun, als ob（装作）；aussehen, als ob（看起来）；sich anfühlen, a
 - [ ] wobei 伴随用法 vs 疑问副词 Wobei 辨析
 - [ ] 名物化：indem → durch；ohne → ohne；借助 → mithilfe/mittels
 - [ ] zu 不定式只放一个不定式（不放 KII）
+- [ ] als 三重身份：比较（größer als）/ 时间（Als er kam）/ 非现实（als wäre）
+- [ ] soweit ich weiß / je nachdem, wie 高频句首结构
 
 ## 下次学习建议
 
