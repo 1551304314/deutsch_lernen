@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：0 / 108（跳过中）
-- B1 已学位置：28 / 2871
-- B2 已学位置：30 / 2108
-- 上次学习日期：2026-08-27
+- A2 已学位置：1 / 108
+- B1 已学位置：56 / 2871
+- B2 已学位置：51 / 2108
+- 上次学习日期：2026-08-28
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -78,3 +78,55 @@
 - Absender
 - Absicht
 - absolut
+
+### 第 2 天（2026-08-28）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] abfliegen
+- [B1] abstimmen
+- [B1] Abteilung
+- [B1] Abwart
+- [B1] abwärts
+- [B1] abwaschen
+- [B1] abwesend
+- [B1] achten
+- [B1] Achtung
+- [B1] Adresse
+- [B1] ähnlich
+- [B1] Ahnung
+- [B1] Aktion
+- [B1] aktiv
+- [B1] Aktivität
+- [B1] aktuell
+- [B1] akzeptieren
+- [B1] Alarm
+- [B1] Alkohol
+- [B1] alle
+- [B1] alles
+- [B1] allein
+- [B1] allerbest
+- [B1] allerdings
+- [B1] allgemein
+- [B1] Alltag
+- [B1] alltäglich
+- [B1] Alphabet
+- [B1] als
+- [B2] Akademie
+- [B2] akustisch
+- [B2] akut
+- [B2] alkoholfrei
+- [B2] Allesfresser
+- [B2] Alltagssprache
+- [B2] allzu
+- [B2] Alzheimer
+- [B2] Amt
+- [B2] amtlich
+- [B2] Amtsinhaber
+- [B2] Amtssprache
+- [B2] Analogie
+- [B2] analytisch
+- [B2] Anbau
+- [B2] anbringen
+- [B2] andernfalls
+- [B2] andeuten
+- [B2] anerkannt
+- [B2] anerkennen
+- [B2] anerkennend
