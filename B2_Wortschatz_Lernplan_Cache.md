@@ -3,15 +3,15 @@
 > 本文件由「每日单词学习计划」自动维护，请勿手动编辑。
 
 ## 数据源
-- `欧标A2单词.xlsx`：108 词（⚠️ 文件被加密软件加密无法读取，2026-08-27 起按用户要求暂时跳过）
+- `欧标A2单词.xlsx`：118 词（⚠️ 2026-08-27 被重新整理「剔除 B1 重复」，加标题行+表头「单词」，词从第 3 行起；现已可正常读取，2026-08-29 按用户要求从头开始学，旧位置作废）
 - `欧标B1单词.xlsx`：2871 词（首行标题「欧标B1单词_日期」+ 第二行表头「单词」，词从第 3 行起）
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：1 / 108
-- B1 已学位置：56 / 2871
-- B2 已学位置：51 / 2108
-- 上次学习日期：2026-08-28
+- A2 已学位置：2 / 118
+- B1 已学位置：112 / 2871
+- B2 已学位置：93 / 2108
+- 上次学习日期：2026-08-30
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -130,3 +130,107 @@
 - [B2] anerkannt
 - [B2] anerkennen
 - [B2] anerkennend
+
+### 第 3 天（2026-08-29）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] abschließen
+- [B1] also
+- [B1] alt
+- [B1] Alter
+- [B1] Altenheim
+- [B1] Altersheim
+- [B1] alternativ
+- [B1] Alternative
+- [B1] Ampel
+- [B1] Amt
+- [B1] amüsieren
+- [B1] an
+- [B1] analysieren
+- [B1] anbieten
+- [B1] Anbieter
+- [B1] Angebot
+- [B1] ander
+- [B1] andererseits
+- [B1] ändern
+- [B1] Änderung
+- [B1] anders
+- [B1] anerkennen
+- [B1] anfangen
+- [B1] Anfang
+- [B1] anfangs
+- [B1] angeben
+- [B1] Angabe
+- [B1] Angehörige
+- [B1] angenehm
+- [B2] Anfang
+- [B2] anfügen
+- [B2] anfühlen
+- [B2] angehen
+- [B2] Angel
+- [B2] angelehnt
+- [B2] angemessen
+- [B2] angesichts
+- [B2] angestellt
+- [B2] angewiesen
+- [B2] Angewohnheit
+- [B2] Angriff
+- [B2] ängstigen
+- [B2] ankaufen
+- [B2] anknüpfen
+- [B2] ankündigen
+- [B2] Anlage
+- [B2] Anlass
+- [B2] anlässlich
+- [B2] anlegen
+- [B2] anmelden
+
+### 第 4 天（2026-08-30）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] ander-
+- [B1] Angst
+- [B1] ängstlich
+- [B1] anhaben
+- [B1] anklicken
+- [B1] ankommen
+- [B1] Ankunft
+- [B1] ankündigen
+- [B1] Anlage
+- [B1] Anleitung
+- [B1] anmelden
+- [B1] Anmeldung
+- [B1] annehmen
+- [B1] Annonce
+- [B1] Anrede
+- [B1] anrufen
+- [B1] Anruf
+- [B1] Anrufbeantworter
+- [B1] Ansage
+- [B1] anschaffen
+- [B1] anschließen
+- [B1] Anschluss
+- [B1] anschnallen
+- [B1] ansehen
+- [B1] ansprechen
+- [B1] Anspruch
+- [B1] anstellen
+- [B1] Angestellte
+- [B1] anstrengen
+- [B2] annehmen
+- [B2] Anonymität
+- [B2] anormal
+- [B2] anpassen
+- [B2] Anprobe
+- [B2] Anrufer
+- [B2] anschließen
+- [B2] Anschluss
+- [B2] Anschreiben
+- [B2] Anschrift
+- [B2] Ansehen
+- [B2] ansiedeln
+- [B2] ansprechen
+- [B2] anspruchsvoll
+- [B2] anstehen
+- [B2] anstellen
+- [B2] Antike
+- [B2] antreten
+- [B2] Arbeitsbedingungen
+- [B2] Arbeitserlaubnis
+- [B2] arbeitsfrei
