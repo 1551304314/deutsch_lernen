@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：2 / 118
-- B1 已学位置：112 / 2871
-- B2 已学位置：93 / 2108
-- 上次学习日期：2026-08-30
+- A2 已学位置：3 / 118
+- B1 已学位置：140 / 2871
+- B2 已学位置：114 / 2108
+- 上次学习日期：2026-08-31
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -234,3 +234,55 @@
 - [B2] Arbeitsbedingungen
 - [B2] Arbeitserlaubnis
 - [B2] arbeitsfrei
+
+### 第 5 天（2026-08-31）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] anmachen
+- [B1] anstrengend
+- [B1] Antrag
+- [B1] anwenden
+- [B1] anwesend
+- [B1] antworten
+- [B1] Antwort
+- [B1] Anwalt
+- [B1] Anzahl
+- [B1] anzeigen
+- [B1] Anzeige
+- [B1] anziehen
+- [B1] Anzug
+- [B1] Apartment
+- [B1] Apfel
+- [B1] Apotheke
+- [B1] Apparat
+- [B1] Appetit
+- [B1] Aprikose
+- [B1] arbeiten
+- [B1] Arbeit
+- [B1] Arbeiter
+- [B1] Arbeitserlaubnis
+- [B1] arbeitslos
+- [B1] Arbeitslosigkeit
+- [B1] Arbeitsplatz
+- [B1] Arbeitsstelle
+- [B1] Architekt
+- [B1] ärgern
+- [B2] Arbeitsgebiet
+- [B2] Arbeitsklima
+- [B2] Arbeitslohn
+- [B2] Arbeitslose
+- [B2] Arbeitsmarkt
+- [B2] Arbeitsweise
+- [B2] arg
+- [B2] Ärger
+- [B2] ärgern
+- [B2] arrogant
+- [B2] Art
+- [B2] Artgenosse
+- [B2] Arztpraxis
+- [B2] Astronom
+- [B2] Astronomin
+- [B2] Atmosphäre
+- [B2] Atmung
+- [B2] Atombombe
+- [B2] Atomenergie
+- [B2] Atomkraftwerk
+- [B2] Atommeiler
