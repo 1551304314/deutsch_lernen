@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：3 / 118
-- B1 已学位置：140 / 2871
-- B2 已学位置：114 / 2108
-- 上次学习日期：2026-08-31
+- A2 已学位置：4 / 118
+- B1 已学位置：168 / 2871
+- B2 已学位置：135 / 2108
+- 上次学习日期：2026-09-02
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -286,3 +286,55 @@
 - [B2] Atomenergie
 - [B2] Atomkraftwerk
 - [B2] Atommeiler
+
+### 第 6 天（2026-09-02）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] aufmachen
+- [B1] Ärger
+- [B1] ärgerlich
+- [B1] arm
+- [B1] Arm
+- [B1] Art
+- [B1] Artikel
+- [B1] Arzt
+- [B1] Asyl
+- [B1] atmen
+- [B1] Atem
+- [B1] auch
+- [B1] auf
+- [B1] Aufenthalt
+- [B1] auffallen
+- [B1] auffordern
+- [B1] Aufforderung
+- [B1] aufführen
+- [B1] Aufgabe
+- [B1] aufgeben
+- [B1] aufhalten
+- [B1] aufheben
+- [B1] aufhören
+- [B1] aufladen
+- [B1] auflösen
+- [B1] aufmerksam
+- [B1] aufnehmen
+- [B1] Aufnahme
+- [B1] aufpassen
+- [B2] attackieren
+- [B2] atypisch
+- [B2] Aufbau
+- [B2] aufbereiten
+- [B2] aufdrücken
+- [B2] aufeinander
+- [B2] auffällig
+- [B2] Auffassung
+- [B2] auffordern
+- [B2] Aufgabengebiet
+- [B2] Aufgabenteilung
+- [B2] aufgeben
+- [B2] aufgehen
+- [B2] aufgeregt
+- [B2] aufhalten
+- [B2] aufheben
+- [B2] Aufklärung
+- [B2] aufkommen
+- [B2] aufliegen
+- [B2] auflisten
+- [B2] auflösen
