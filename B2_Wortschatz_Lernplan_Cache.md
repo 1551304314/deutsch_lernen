@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：4 / 118
-- B1 已学位置：168 / 2871
-- B2 已学位置：135 / 2108
-- 上次学习日期：2026-09-02
+- A2 已学位置：5 / 118
+- B1 已学位置：196 / 2871
+- B2 已学位置：156 / 2108
+- 上次学习日期：2026-09-03
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -338,3 +338,55 @@
 - [B2] aufliegen
 - [B2] auflisten
 - [B2] auflösen
+
+### 第 7 天（2026-09-03）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] aufregend
+- [B1] aufräumen
+- [B1] aufregen
+- [B1] aufstehen
+- [B1] Auftrag
+- [B1] auftreten
+- [B1] Auftritt
+- [B1] aufwachen
+- [B1] aufwärts
+- [B1] Aufzug
+- [B1] Auge
+- [B1] Augenblick
+- [B1] aus
+- [B1] Ausbildung
+- [B1] ausgebildet
+- [B1] ausdrucken
+- [B1] Ausdruck
+- [B1] auseinander
+- [B1] Ausfahrt
+- [B1] ausfallen
+- [B1] Ausflug
+- [B1] ausfüllen
+- [B1] Ausgabe
+- [B1] Ausgang
+- [B1] ausgeben
+- [B1] ausgehen
+- [B1] ausgezeichnet
+- [B1] Aushilfe
+- [B1] Auskunft
+- [B2] aufregen
+- [B2] Aufregung
+- [B2] aufreiben
+- [B2] aufreißen
+- [B2] Aufruf
+- [B2] aufrufen
+- [B2] aufschwingen
+- [B2] Aufsehen
+- [B2] aufsehenerregend
+- [B2] Auftakt
+- [B2] auftanken
+- [B2] Aufteilung
+- [B2] Auftreten
+- [B2] aufwärmen
+- [B2] Aufzählung
+- [B2] Ausarbeitung
+- [B2] Ausbau
+- [B2] ausbauen
+- [B2] ausbremsen
+- [B2] Ausdauer
+- [B2] auseinanderreißen
