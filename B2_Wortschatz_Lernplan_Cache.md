@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：5 / 118
-- B1 已学位置：196 / 2871
-- B2 已学位置：156 / 2108
-- 上次学习日期：2026-09-03
+- A2 已学位置：6 / 118
+- B1 已学位置：224 / 2871
+- B2 已学位置：177 / 2108
+- 上次学习日期：2026-09-04
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -390,3 +390,55 @@
 - [B2] ausbremsen
 - [B2] Ausdauer
 - [B2] auseinanderreißen
+
+### 第 8 天（2026-09-04）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] auspacken
+- [B1] Ausland
+- [B1] Ausländer
+- [B1] ausländisch
+- [B1] ausmachen
+- [B1] Ausnahme
+- [B1] ausreichen
+- [B1] ausreichend
+- [B1] ausrichten
+- [B1] ausruhen
+- [B1] ausschließen
+- [B1] ausschließlich
+- [B1] aussehen
+- [B1] außen
+- [B1] außerhalb
+- [B1] äußerlich
+- [B1] außer
+- [B1] außerdem
+- [B1] Aussicht
+- [B1] aussprechen
+- [B1] Aussprache
+- [B1] ausstellen
+- [B1] Ausstellung
+- [B1] aussuchen
+- [B1] auswählen
+- [B1] Auswahl
+- [B1] Ausweis
+- [B1] ausziehen
+- [B1] Auto
+- [B2] ausfallen
+- [B2] ausführen
+- [B2] ausfüllen
+- [B2] Ausgang
+- [B2] Ausgangspunkt
+- [B2] ausgehen
+- [B2] ausgeliefert
+- [B2] ausgerechnet
+- [B2] ausgesprochen
+- [B2] ausgewogen
+- [B2] ausgezeichnet
+- [B2] Ausgrenzung
+- [B2] aushalten
+- [B2] auskommen
+- [B2] Auskunft
+- [B2] Auslandsaufenthalt
+- [B2] Auslandserfahrung
+- [B2] Auslandssemester
+- [B2] ausleihen
+- [B2] auslöschen
+- [B2] auslösen
