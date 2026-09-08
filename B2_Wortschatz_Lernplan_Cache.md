@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：6 / 118
-- B1 已学位置：224 / 2871
-- B2 已学位置：177 / 2108
-- 上次学习日期：2026-09-04
+- A2 已学位置：7 / 118
+- B1 已学位置：252 / 2871
+- B2 已学位置：198 / 2108
+- 上次学习日期：2026-09-08
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -442,3 +442,55 @@
 - [B2] ausleihen
 - [B2] auslöschen
 - [B2] auslösen
+
+### 第 9 天（2026-09-08）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] aussteigen
+- [B1] Autobahn
+- [B1] Automat
+- [B1] automatisch
+- [B1] Autor
+- [B1] backen
+- [B1] Bäckerei
+- [B1] baden
+- [B1] Bad
+- [B1] Badewanne
+- [B1] Bahn
+- [B1] S-Bahn
+- [B1] Straßenbahn
+- [B1] U-Bahn
+- [B1] Bahnhof
+- [B1] Bahnsteig
+- [B1] bald
+- [B1] Balkon
+- [B1] Ball
+- [B1] Ballett
+- [B1] Banane
+- [B1] Bank
+- [B1] Bankleitzahl
+- [B1] Bar
+- [B1] bar
+- [B1] Bargeld
+- [B1] Bart
+- [B1] Basketball
+- [B1] basteln
+- [B2] ausmachen
+- [B2] ausprobieren
+- [B2] ausrauben
+- [B2] ausräumen
+- [B2] ausreichen
+- [B2] ausreichend
+- [B2] Ausreise
+- [B2] ausreisen
+- [B2] ausrichten
+- [B2] aussagekräftig
+- [B2] ausschlafen
+- [B2] Außenseiter
+- [B2] äußere
+- [B2] außergewöhnlich
+- [B2] äußerst
+- [B2] Aussicht
+- [B2] Aussteller
+- [B2] aussterben
+- [B2] ausstrecken
+- [B2] Austausch
+- [B2] austeilen
