@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：7 / 118
-- B1 已学位置：252 / 2871
-- B2 已学位置：198 / 2108
-- 上次学习日期：2026-09-08
+- A2 已学位置：8 / 118
+- B1 已学位置：280 / 2871
+- B2 已学位置：219 / 2108
+- 上次学习日期：2026-09-10
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -494,3 +494,55 @@
 - [B2] ausstrecken
 - [B2] Austausch
 - [B2] austeilen
+
+### 第 10 天（2026-09-10）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] austragen
+- [B1] Batterie
+- [B1] Bauch
+- [B1] bauen
+- [B1] Bau
+- [B1] Baustelle
+- [B1] Bauer
+- [B1] Baum
+- [B1] beachten
+- [B1] Beamte
+- [B1] beantragen
+- [B1] beantworten
+- [B1] bedanken
+- [B1] Bedarf
+- [B1] bedeuten
+- [B1] Bedeutung
+- [B1] bedienen
+- [B1] Bedienungsanleitung
+- [B1] Bedingung
+- [B1] beeilen
+- [B1] beenden
+- [B1] befinden
+- [B1] befreit
+- [B1] befriedigend
+- [B1] begegnen
+- [B1] begeistert
+- [B1] beginnen
+- [B1] Beginn
+- [B1] begleiten
+- [B2] ausüben
+- [B2] ausverkauft
+- [B2] auswandern
+- [B2] Ausweg
+- [B2] Ausweis
+- [B2] auswendig
+- [B2] auswerten
+- [B2] Auswirkung
+- [B2] auszahlen
+- [B2] auszeichnen
+- [B2] Auszeit
+- [B2] Automobilhersteller
+- [B2] Autor
+- [B2] Autorin
+- [B2] avancieren
+- [B2] Bachelor
+- [B2] Bahn
+- [B2] Bakterie
+- [B2] Balance
+- [B2] Bammel
+- [B2] Bande
