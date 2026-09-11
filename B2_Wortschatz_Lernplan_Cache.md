@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：8 / 118
-- B1 已学位置：280 / 2871
-- B2 已学位置：219 / 2108
-- 上次学习日期：2026-09-10
+- A2 已学位置：9 / 118
+- B1 已学位置：308 / 2871
+- B2 已学位置：240 / 2108
+- 上次学习日期：2026-09-11
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -546,3 +546,55 @@
 - [B2] Balance
 - [B2] Bammel
 - [B2] Bande
+
+### 第 11 天（2026-09-11）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] Baby
+- [B1] begrenzt
+- [B1] begründen
+- [B1] Begründung
+- [B1] begrüßen
+- [B1] behalten
+- [B1] behandeln
+- [B1] behaupten
+- [B1] behindern
+- [B1] Behörde
+- [B1] bei
+- [B1] Bein
+- [B1] beinahe
+- [B1] Beispiel
+- [B1] beißen
+- [B1] Beitrag
+- [B1] bekannt
+- [B1] Bekannte
+- [B1] bekannt geben
+- [B1] bekommen
+- [B1] Beleg
+- [B1] beleidigen
+- [B1] beliebt
+- [B1] bemerken
+- [B1] bemühen
+- [B1] benötigen
+- [B1] benutzen
+- [B1] Benzin
+- [B1] beobachten
+- [B2] bang
+- [B2] Bank
+- [B2] Banklehre
+- [B2] bankrott
+- [B2] Banktresor
+- [B2] basieren
+- [B2] Basis
+- [B2] Bauarbeiter
+- [B2] Bauch
+- [B2] bauen
+- [B2] Baumwolle
+- [B2] Bauwerk
+- [B2] Bauzeichner
+- [B2] Beachtung
+- [B2] beantragen
+- [B2] Becher
+- [B2] Bedarf
+- [B2] bedecken
+- [B2] bedenken
+- [B2] bedeutend
+- [B2] bedroht
