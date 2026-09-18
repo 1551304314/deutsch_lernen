@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：9 / 118
-- B1 已学位置：308 / 2871
-- B2 已学位置：240 / 2108
-- 上次学习日期：2026-09-11
+- A2 已学位置：10 / 118
+- B1 已学位置：336 / 2871
+- B2 已学位置：261 / 2108
+- 上次学习日期：2026-09-18
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -598,3 +598,55 @@
 - [B2] bedenken
 - [B2] bedeutend
 - [B2] bedroht
+
+### 第 12 天（2026-09-18）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] Babysitter
+- [B1] bequem
+- [B1] beraten
+- [B1] Beratung
+- [B1] berechnen
+- [B1] Bereich
+- [B1] bereit
+- [B1] bereits
+- [B1] Berg
+- [B1] berichten
+- [B1] Bericht
+- [B1] Beruf
+- [B1] beruflich
+- [B1] berufstätig
+- [B1] beruhigen
+- [B1] berühmt
+- [B1] beschädigen
+- [B1] beschäftigen
+- [B1] Beschäftigung
+- [B1] Bescheid
+- [B1] beschließen
+- [B1] beschränken
+- [B1] beschreiben
+- [B1] Beschreibung
+- [B1] beschweren
+- [B1] besetzen
+- [B1] besichtigen
+- [B1] besitzen
+- [B1] besonder
+- [B2] Bedürfnis
+- [B2] bedürftig
+- [B2] beerdigen
+- [B2] befassen
+- [B2] Befehl
+- [B2] befehlen
+- [B2] Befinden
+- [B2] befürworten
+- [B2] Begabung
+- [B2] begeben
+- [B2] begegnen
+- [B2] Begleiter
+- [B2] Begleiterin
+- [B2] begreifen
+- [B2] begründen
+- [B2] behaupten
+- [B2] beherrschen
+- [B2] Behinderung
+- [B2] beibringen
+- [B2] Bein
+- [B2] Beitrag
