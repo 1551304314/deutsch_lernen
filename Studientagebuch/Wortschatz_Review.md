@@ -1,0 +1,663 @@
+# 词汇总复习专栏（Wortschatz Review）
+
+> 收录范围：截至 2026-09-24 已学全部单词，去重后共 **608 词**（A2 12 + B1 328 + B2 213 + 首日混合批 55）。
+> 格式：**词目（词性）· 核心中文义**；动词附三形变（不定式 → Präteritum → Partizip II），名词附词性与复数，形容词附不规则比较级，特殊搭配以括号标出。
+> 排列：德语字母序（ä→a，ö→o，ü→u，ß→ss）。
+> 用途：快速回忆复习，遇到记不清的词回看对应「每日单词详解版」。
+
+---
+
+## A
+
+### ab — abwägen
+
+- **ab** (Präp. + Dat / Adv.) · 从……起；离开
+- **Abbau** (der, 无复数) · 拆除；衰退；开采
+- **abbauen** (vt) → baute ab, abgebaut · 拆除；削减；开采
+- **abbiegen** (vi, sein) → bog ab, abgebogen · 转弯
+- **Abbildung** (die, -en) · 插图
+- **abbrechen** (vt/vi) → brach ab, abgebrochen · 中断；折断
+- **Abenteuer** (das, -) · 冒险
+- **abenteuerlich** (Adj) · 惊险的、冒险的
+- **Abenteuerlust** (die) · 冒险欲
+- **aber** (Konj.) · 但是
+- **abfahren** (vi, sein) → fuhr ab, abgefahren · 出发、驶离
+- **Abfahrt** (die, -en) · 出发、发车
+- **Abfall** (der, Abfälle) · 垃圾；废料
+- **Abfalleimer** (der, -) · 垃圾桶
+- **abfliegen** (vi, sein) → flog ab, abgeflogen · 起飞、飞离
+- **Abgase** (Pl.) · 废气
+- **abgeben** (vt) → gab ab, abgegeben · 交出；提交
+- **abgeschlossen** (Adj) · 封闭的；已完成的
+- **abgesehen** (固定) · abgesehen von 除……之外
+- **abgrenzen** (vt) · 划分界限
+- **abhängen** (vi) → hing ab, abgehangen · 取决于 (abhängen von)
+- **abhängig** (Adj) · 依赖的 (abhängig von)
+- **Abhängigkeit** (die, -en) · 依赖
+- **abheben** (vt/vi) → hob ab, abgehoben · 提起；取款；起飞
+- **abholen** (vt) · 接（人）、取（物）
+- **Abitur** (das) · 高中毕业考试
+- **ablaufen** (vi, sein) → lief ab, abgelaufen · 进行；到期；流逝
+- **ablegen** (vt) · 放下；脱下；参加（考试）
+- **ablehnen** (vt) · 拒绝
+- **ableiten** (vt) · 推导；引导
+- **abmachen** (vt) · 约定；取下
+- **abnehmen** (vt/vi) → nahm ab, abgenommen · 取下；减少；变瘦
+- **Abonnement** (das, -s) · 订阅
+- **abonnieren** (vt) · 订阅
+- **abriegeln** (vt) · 封锁
+- **Absage** (die, -n) · 拒绝、取消
+- **absagen** (vt/vi) · 取消、回绝
+- **abschließen** (vt) → schloss ab, abgeschlossen · 锁上；结束；签订
+- **Abschluss** (der, Abschlüsse) · 结束；毕业；签订
+- **Abschnitt** (der, -e) · 段落；阶段
+- **abschreiben** (vt) → schrieb ab, abgeschrieben · 抄写；抄袭
+- **abschwächen** (vt) · 削弱、缓和
+- **Absender** (der, -) · 寄件人
+- **Absicht** (die, -en) · 意图、目的
+- **absolut** (Adj/Adv) · 绝对的；完全地
+- **absolvieren** (vt) · 完成（学业/课程）
+- **Absperrung** (die, -en) · 封锁、路障
+- **Absprache** (die, -n) · 约定、协商
+- **Abstammung** (die, -en) · 出身、血统
+- **Abstand** (der, Abstände) · 距离、间隔
+- **abstimmen** (vi/vt) · 投票 (über)；协调
+- **abstrakt** (Adj) · 抽象的
+- **Abteil** (das, -e) · 车厢（隔间）
+- **Abteilung** (die, -en) · 部门
+- **abwägen** (vt) → wog ab, abgewogen · 权衡
+
+### Abwart — anfühlen
+
+- **Abwart** (der, -e) · 看门人、管理员
+- **abwärts** (Adv) · 向下
+- **abwaschen** (vt) → wusch ab, abgewaschen · 洗（碗）、洗掉
+- **abweichen** (vi, sein) → wich ab, abgewichen · 偏离 (von)
+- **abwesend** (Adj) · 缺席的
+- **Acht** (die, 仅短语) · sich in Acht nehmen 小心；außer Acht lassen 忽视
+- **achten** (vi/vt) · 注意 (auf)；尊重
+- **Achtung** (die) · 注意；尊敬
+- **Adresse** (die, -n) · 地址
+- **aggressiv** (Adj) · 有攻击性的
+- **ähneln** (vi + Dat) · 相似
+- **ähnlich** (Adj) · 相似的
+- **Ahnung** (die, -en) · 预感；概念
+- **Akademie** (die, -n) · 学院
+- **Aktion** (die, -en) · 行动；活动
+- **aktiv** (Adj) · 积极的、活跃的
+- **Aktivität** (die, -en) · 活动
+- **aktuell** (Adj) · 当前的、时新的
+- **akustisch** (Adj) · 声学的、听觉的
+- **akut** (Adj) · 急性的；紧迫的
+- **akzeptieren** (vt) · 接受
+- **Alarm** (der, -e) · 警报
+- **Alkohol** (der, -e) · 酒精
+- **alkoholfrei** (Adj) · 无酒精的
+- **alle** (Pron.) · 所有的
+- **allein** (Adj/Adv) · 单独的；独自
+- **allerbest** (Adj) · 极好的
+- **allerdings** (Adv) · 不过；的确
+- **alles** (Pron.) · 一切
+- **Allesfresser** (der, -) · 杂食动物
+- **allgemein** (Adj) · 普遍的、一般的
+- **Alltag** (der, -e) · 日常生活
+- **alltäglich** (Adj) · 日常的、平常的
+- **Alltagssprache** (die) · 日常用语
+- **allzu** (Adv) · 太、过于
+- **Alphabet** (das, -e) · 字母表
+- **als** (Konj.) · 当……时（过去一次）；作为；比
+- **also** (Adv/Konj) · 那么、所以
+- **alt** (Adj, älter, am ältesten) · 老的；旧的
+- **Altenheim** (das, -e) · 养老院
+- **Alter** (das, -) · 年龄
+- **alternativ** (Adj) · 替代的
+- **Alternative** (die, -n) · 替代方案
+- **Altersheim** (das, -e) · 养老院
+- **Alzheimer** (die Krankheit) · 阿尔茨海默病
+- **Ampel** (die, -n) · 红绿灯
+- **Amt** (das, Ämter) · 局；职务
+- **amtlich** (Adj) · 官方的
+- **Amtsinhaber** (der, -) · 在职者
+- **Amtssprache** (die, -n) · 官方语言
+- **amüsieren** (sich) · 娱乐、消遣
+- **an** (Präp. + Dat/Akk) · 在……旁；到……旁
+- **Analogie** (die, -n) · 类比
+- **analysieren** (vt) · 分析
+- **analytisch** (Adj) · 分析的
+- **Anbau** (der, -ten) · 种植；扩建
+- **anbieten** (vt) → bot an, angeboten · 提供
+- **Anbieter** (der, -) · 供应商、提供者
+- **anbringen** (vt) → brachte an, angebracht · 安装、安放
+- **ander** (Adj/Pron) · 其他的
+- **ander-** (Pron) · 其他的（不定代词）
+- **andererseits** (Adv) · 另一方面
+- **ändern** (vt/sich) · 改变
+- **andernfalls** (Adv) · 否则
+- **anders** (Adv) · 不同地
+- **Änderung** (die, -en) · 改变、修改
+- **andeuten** (vt) · 暗示
+- **anerkannt** (Adj) · 公认的
+- **anerkennen** (vt) → erkannte an, anerkannt · 承认、认可
+- **anerkennend** (Adj) · 赞许的
+- **Anfang** (der, Anfänge) · 开始
+- **anfangen** (vt/vi) → fing an, angefangen · 开始
+- **anfangs** (Adv) · 起初
+- **anfügen** (vt) · 添加、附加
+- **anfühlen** (sich) · 摸起来（感觉）
+
+### Angabe — ausdrucken
+
+- **Angabe** (die, -n) · 说明；数据
+- **angeben** (vt/vi) → gab an, angegeben · 说明；吹嘘
+- **Angebot** (das, -e) · 提供；供应；报价
+- **angehen** (vt/vi) → ging an, angegangen · 涉及；开始（灯亮）
+- **Angehörige** (der/die, -n) · 家属、成员
+- **Angel** (die, -n) · 钓竿；铰链
+- **angelehnt** (Adj) · 倚靠的
+- **angemessen** (Adj) · 恰当的
+- **angenehm** (Adj) · 令人愉快的
+- **angesichts** (Präp. + Gen) · 鉴于、面对
+- **angestellt** (Adj) · 受雇的
+- **Angestellte** (der/die, -n) · 职员
+- **angewiesen** (Adj) · auf etw. angewiesen sein 依赖、需要
+- **Angewohnheit** (die, -en) · （个人）习惯
+- **Angriff** (der, -e) · 攻击
+- **Angst** (die, Ängste) · 害怕、恐惧
+- **ängstigen** (vt/sich) · 使害怕
+- **ängstlich** (Adj) · 害怕的、胆怯的
+- **anhaben** (vt) → hatte an, angehabt · 穿着
+- **ankaufen** (vt) · 购买、收购
+- **anklicken** (vt) · 点击
+- **anknüpfen** (vt/vi) · 联系 (anknüpfen an)
+- **ankommen** (vi, sein) → kam an, angekommen · 到达
+- **ankündigen** (vt) · 宣布、预告
+- **Ankunft** (die, Ankünfte) · 到达
+- **Anlage** (die, -n) · 设施；附件；投资
+- **Anlass** (der, Anlässe) · 原因；时机
+- **anlässlich** (Präp. + Gen) · 值……之际
+- **anlegen** (vt) · 穿上；投资；建立
+- **Anleitung** (die, -en) · 指导、说明书
+- **anmachen** (vt) · 打开（灯/电器）；点燃
+- **anmelden** (vt/sich) · 报名、登记
+- **Anmeldung** (die, -en) · 报名、登记
+- **annehmen** (vt) → nahm an, angenommen · 接受；假设
+- **Annonce** (die, -n) · 广告、启事
+- **Anonymität** (die) · 匿名
+- **anormal** (Adj) · 不正常的
+- **anpassen** (vt/sich) · 适应、调整
+- **Anprobe** (die, -n) · 试穿
+- **Anrede** (die, -n) · 称呼
+- **Anruf** (der, -e) · 电话
+- **Anrufbeantworter** (der, -) · 电话答录机
+- **anrufen** (vt) → rief an, angerufen · 打电话
+- **Anrufer** (der, -) · 来电者
+- **Ansage** (die, -n) · 通知、播报
+- **anschaffen** (vt) · 购置
+- **anschließen** (vt/sich) → schloss an, angeschlossen · 连接；加入
+- **Anschluss** (der, Anschlüsse) · 连接；转车
+- **anschnallen** (vt/sich) · 系（安全带）
+- **Anschreiben** (das, -) · 求职信
+- **Anschrift** (die, -en) · 地址
+- **ansehen** (vt) → sah an, angesehen · 看、观看
+- **Ansehen** (das) · 声望、尊敬
+- **ansiedeln** (vt/sich) · 定居、安置
+- **ansprechen** (vt) → sprach an, angesprochen · 搭话；谈论；引起兴趣
+- **Anspruch** (der, Ansprüche) · 要求；权利
+- **anspruchsvoll** (Adj) · 要求高的、讲究的
+- **anstehen** (vi) → stand an, angestanden · 排队；待处理
+- **anstellen** (vt/sich) · 雇用；打开；做
+- **anstrengen** (vt/sich) · 使费力；努力
+- **anstrengend** (Adj) · 累人的
+- **Antike** (die) · 古代
+- **Antrag** (der, Anträge) · 申请
+- **antreten** (vt/vi) → trat an, angetreten · 上任；开始（旅程）
+- **Antwort** (die, -en) · 回答
+- **antworten** (vi) · 回答 (auf etw. antworten)
+- **Anwalt** (der, Anwälte) · 律师
+- **anwenden** (vt) → wandte an, angewandt · 应用、使用
+- **anwesend** (Adj) · 在场的
+- **Anzahl** (die) · 数量
+- **Anzeige** (die, -n) · 广告；告发
+- **anzeigen** (vt) · 显示；告发
+- **anziehen** (vt/sich) → zog an, angezogen · 吸引；穿上
+- **Anzug** (der, Anzüge) · 西装
+- **Apartment** (das, -s) · 公寓
+- **Apfel** (der, Äpfel) · 苹果
+- **Apotheke** (die, -n) · 药店
+- **Apparat** (der, -e) · 仪器、机器
+- **Appetit** (der) · 胃口
+- **Aprikose** (die, -n) · 杏
+- **Arbeit** (die, -en) · 工作；作业
+- **arbeiten** (vi) · 工作
+- **Arbeiter** (der, -) · 工人
+- **Arbeitsbedingungen** (Pl.) · 工作条件
+- **Arbeitserlaubnis** (die, -se) · 工作许可
+- **arbeitsfrei** (Adj) · 不上班的、放假的
+- **Arbeitsgebiet** (das, -e) · 工作领域
+- **Arbeitsklima** (das) · 工作氛围
+- **Arbeitslohn** (der, Arbeitslöhne) · 工资
+- **arbeitslos** (Adj) · 失业的
+- **Arbeitslose** (der/die, -n) · 失业者
+- **Arbeitslosigkeit** (die) · 失业
+- **Arbeitsmarkt** (der, Arbeitsmärkte) · 就业市场
+- **Arbeitsplatz** (der, Arbeitsplätze) · 工作岗位
+- **Arbeitsstelle** (die, -n) · 工作岗位
+- **Arbeitsweise** (die, -n) · 工作方式
+- **Architekt** (der, -en) · 建筑师
+- **arg** (Adj, ärger, am ärgsten) · 厉害的、严重的
+- **Ärger** (der) · 生气；麻烦
+- **ärgerlich** (Adj) · 恼火的
+- **ärgern** (vt/sich) · 使生气；生气 (sich über etw. ärgern)
+- **Arm** (der, -e) · 胳膊
+- **arm** (Adj, ärmer, am ärmsten) · 贫穷的
+- **arrogant** (Adj) · 傲慢的
+- **Art** (die, -en) · 种类；方式
+- **Artgenosse** (der, -n) · 同类
+- **Artikel** (der, -) · 文章；商品；冠词
+- **Arzt** (der, Ärzte) · 医生
+- **Arztpraxis** (die, -praxen) · 诊所
+- **Astronom** (der, -en) · 天文学家
+- **Astronomin** (die, -nen) · 女天文学家
+- **Asyl** (das, -e) · 庇护
+- **Atem** (der) · 呼吸
+- **atmen** (vi/vt) · 呼吸
+- **Atmosphäre** (die, -n) · 大气；氛围
+- **Atmung** (die) · 呼吸
+- **Atombombe** (die, -n) · 原子弹
+- **Atomenergie** (die) · 核能
+- **Atomkraftwerk** (das, -e) · 核电站
+- **Atommeiler** (der, -) · 核反应堆
+- **attackieren** (vt) · 攻击
+- **atypisch** (Adj) · 非典型的
+- **auch** (Adv) · 也
+- **auf** (Präp. + Dat/Akk) · 在……上；到……上
+- **Aufbau** (der) · 建设；结构
+- **aufbereiten** (vt) · 处理、加工
+- **aufdrücken** (vt) · 按上、印上
+- **aufeinander** (Adv) · 相互
+- **Aufenthalt** (der, -e) · 停留、居留
+- **auffallen** (vi, sein) → fiel auf, aufgefallen · 引人注目
+- **auffällig** (Adj) · 显眼的
+- **Auffassung** (die, -en) · 观点、理解
+- **auffordern** (vt) · 要求、邀请
+- **Aufforderung** (die, -en) · 要求、请求
+- **aufführen** (vt) · 上演、表演；列举
+- **Aufgabe** (die, -n) · 任务；作业；放弃
+- **Aufgabengebiet** (das, -e) · 职责范围
+- **Aufgabenteilung** (die) · 分工
+- **aufgeben** (vt) → gab auf, aufgegeben · 放弃；寄；布置
+- **aufgehen** (vi, sein) → ging auf, aufgegangen · 升起；打开；除尽
+- **aufgeregt** (Adj) · 兴奋的、激动的
+- **aufhalten** (vt/sich) → hielt auf, aufgehalten · 阻止；停留
+- **aufheben** (vt) → hob auf, aufgehoben · 捡起；取消；保留
+- **aufhören** (vi) · 停止 (mit etw. aufhören)
+- **Aufklärung** (die) · 启蒙；澄清
+- **aufkommen** (vi, sein) → kam auf, aufgekommen · 出现、产生
+- **aufladen** (vt) → lud auf, aufgeladen · 装载；充电
+- **aufliegen** (vi) · 摆放着（供阅览）
+- **auflisten** (vt) · 列出
+- **auflösen** (vt/sich) · 解散；溶解；解决
+- **aufmachen** (vt/sich) · 打开
+- **aufmerksam** (Adj) · 注意的、专心的
+- **Aufnahme** (die, -n) · 接纳；录制；照片
+- **aufnehmen** (vt) → nahm auf, aufgenommen · 接纳；录制；开始
+- **aufpassen** (vi) · 注意 (auf etw. aufpassen)
+- **aufräumen** (vt/vi) · 收拾、整理
+- **aufregen** (vt/sich) · 使激动；激动 (sich über etw. aufregen)
+- **aufregend** (Adj) · 令人兴奋的
+- **Aufregung** (die, -en) · 激动、兴奋
+- **aufreiben** (vt) → rieb auf, aufgerieben · 磨破；消耗
+- **aufreißen** (vt) → riss auf, aufgerissen · 撕开
+- **Aufruf** (der, -e) · 呼吁、号召
+- **aufrufen** (vt) → rief auf, aufgerufen · 呼叫；调出（网页）
+- **aufschwingen** (sich) → schwang auf, aufgeschwungen · 振作；跃升
+- **Aufsehen** (das) · 轰动
+- **aufsehenerregend** (Adj) · 轰动一时的
+- **aufstehen** (vi, sein) → stand auf, aufgestanden · 起床；站起
+- **Auftakt** (der, -e) · 开端、序幕
+- **auftanken** (vi/vt) · 加油
+- **Aufteilung** (die, -en) · 分配、划分
+- **Auftrag** (der, Aufträge) · 任务；订单
+- **auftreten** (vi, sein) → trat auf, aufgetreten · 出场；发生
+- **Auftreten** (das) · 举止；出现
+- **Auftritt** (der, -e) · 出场、登场
+- **aufwachen** (vi, sein) · 醒来
+- **aufwärmen** (vt/sich) · 加热、热（饭菜）
+- **aufwärts** (Adv) · 向上
+- **Aufzählung** (die, -en) · 列举
+- **Aufzug** (der, Aufzüge) · 电梯
+- **Auge** (das, -n) · 眼睛
+- **Augenblick** (der, -e) · 片刻、瞬间
+- **aus** (Präp. + Dat) · 从……出来；由……制成
+- **Ausarbeitung** (die, -en) · 起草、撰写
+- **Ausbau** (der) · 扩建、扩展
+- **ausbauen** (vt) · 扩建、扩展
+- **Ausbildung** (die, -en) · 培训、教育
+- **ausbremsen** (vt) · 刹车（比喻：阻止）
+- **Ausdauer** (die) · 毅力、耐力
+- **Ausdruck** (der, Ausdrücke) · 表达；打印
+- **ausdrucken** (vt) · 打印
+
+### auseinander — auszahlen
+
+- **auseinander** (Adv) · 分开地
+- **auseinanderreißen** (vt) → riss auseinander, auseinandergerissen · 撕开、扯开
+- **Ausfahrt** (die, -en) · 出口；驶出
+- **ausfallen** (vi, sein) → fiel aus, ausgefallen · 取消；脱落；停电
+- **Ausflug** (der, Ausflüge) · 郊游、远足
+- **ausführen** (vt) · 执行；出口；带出
+- **ausfüllen** (vt) · 填写
+- **Ausgabe** (die, -n) · 支出；版本；发行
+- **Ausgang** (der, Ausgänge) · 出口；结局
+- **Ausgangspunkt** (der, -e) · 出发点
+- **ausgeben** (vt) → gab aus, ausgegeben · 花费；发行
+- **ausgebildet** (Adj) · 受过训练的
+- **ausgehen** (vi, sein) → ging aus, ausgegangen · 外出；熄灭；耗尽；davon ausgehen 以为
+- **ausgeliefert** (Adj) · 任人摆布的
+- **ausgerechnet** (Adv) · 偏偏、恰好
+- **ausgesprochen** (Adv) · 特别地
+- **ausgewogen** (Adj) · 均衡的
+- **ausgezeichnet** (Adj) · 优秀的
+- **Ausgrenzung** (die) · 排斥
+- **aushalten** (vt) → hielt aus, ausgehalten · 忍受
+- **Aushilfe** (die, -n) · 临时工；帮忙
+- **auskommen** (vi, sein) → kam aus, ausgekommen · 相处；mit etw. auskommen 应付得了
+- **Auskunft** (die, Auskünfte) · 咨询、信息
+- **Ausland** (das) · 国外
+- **Ausländer** (der, -) · 外国人
+- **ausländisch** (Adj) · 外国的
+- **Auslandsaufenthalt** (der, -e) · 国外停留
+- **Auslandserfahrung** (die, -en) · 海外经历
+- **Auslandssemester** (das, -) · 海外学期
+- **ausleihen** (vt) → lieh aus, ausgeliehen · 借出、借入
+- **auslöschen** (vt) → löschte aus, ausgelöscht · 熄灭；抹去
+- **auslösen** (vt) · 引起、触发
+- **ausmachen** (vt) · 关掉；约定；总计；nichts ausmachen 不要紧
+- **Ausnahme** (die, -n) · 例外
+- **auspacken** (vt) · 打开行李、拆包
+- **ausprobieren** (vt) · 试用
+- **ausrauben** (vt) · 抢劫
+- **ausräumen** (vt) · 清空、腾空
+- **ausreichen** (vi) · 足够
+- **ausreichend** (Adj) · 足够的
+- **Ausreise** (die, -n) · 出境
+- **ausreisen** (vi, sein) · 出境
+- **ausrichten** (vt) · 转达；举办；对齐
+- **ausruhen** (sich) · 休息
+- **aussagekräftig** (Adj) · 有说服力的、有信息量的
+- **ausschlafen** (vi) → schlief aus, ausgeschlafen · 睡足
+- **ausschließen** (vt) → schloss aus, ausgeschlossen · 排除
+- **ausschließlich** (Adv/Adj) · 仅仅；唯一的
+- **aussehen** (vi) → sah aus, ausgesehen · 看起来
+- **außen** (Adv) · 在外面
+- **Außenseiter** (der, -) · 局外人
+- **außer** (Präp. + Dat) · 除……之外
+- **außerdem** (Adv) · 此外
+- **äußere** (Adj) · 外部的
+- **außergewöhnlich** (Adj) · 非凡的
+- **außerhalb** (Präp. + Gen) · 在……之外
+- **äußerlich** (Adj) · 外表的
+- **äußerst** (Adv) · 极其
+- **Aussicht** (die, -en) · 视野；前景
+- **Aussprache** (die, -n) · 发音
+- **aussprechen** (vt/sich) → sprach aus, ausgesprochen · 发音；表达
+- **aussteigen** (vi, sein) → stieg aus, ausgestiegen · 下车；退出
+- **ausstellen** (vt) · 展出；开具
+- **Aussteller** (der, -) · 参展商；开票人
+- **Ausstellung** (die, -en) · 展览
+- **aussterben** (vi, sein) → starb aus, ausgestorben · 灭绝
+- **ausstrecken** (vt/sich) · 伸出
+- **aussuchen** (vt) · 挑选
+- **Austausch** (der) · 交换
+- **austeilen** (vt) · 分发
+- **austragen** (vt) → trug aus, ausgetragen · 分送；举行（比赛）
+- **ausüben** (vt) · 从事；行使
+- **ausverkauft** (Adj) · 售罄的
+- **Auswahl** (die) · 选择
+- **auswählen** (vt) · 挑选
+- **auswandern** (vi, sein) · 移居国外
+- **Ausweg** (der, -e) · 出路
+- **Ausweis** (der, -e) · 证件
+- **auswendig** (Adv) · auswendig lernen 熟记
+- **auswerten** (vt) · 评估、分析
+- **Auswirkung** (die, -en) · 影响
+- **auszahlen** (vt/sich) · 支付；sich auszahlen 值得
+
+### auszeichnen — avancieren
+
+- **auszeichnen** (vt/sich) · 表彰；标志
+- **Auszeit** (die, -en) · 休息时间、暂停
+- **ausziehen** (vt/vi) → zog aus, ausgezogen · 脱下；搬出
+- **Auto** (das, -s) · 汽车
+- **Autobahn** (die, -en) · 高速公路
+- **Automat** (der, -en) · 自动售货机
+- **automatisch** (Adj) · 自动的
+- **Automobilhersteller** (der, -) · 汽车制造商
+- **Autor** (der, -en) · 作者
+- **Autorin** (die, -nen) · 女作者
+- **avancieren** (vi, sein) · 晋升为、成为
+
+---
+
+## B
+
+### Baby — Bande
+
+- **Baby** (das, -s) · 婴儿
+- **Babysitter** (der, -) · 临时照看孩子的人
+- **Bachelor** (der, -s) · 学士
+- **backen** (vt/vi) → backte/buk, gebacken · 烤、烘
+- **Bäckerei** (die, -en) · 面包店
+- **Bad** (das, Bäder) · 浴室；洗澡
+- **baden** (vi/vt) · 洗澡、游泳
+- **Badewanne** (die, -n) · 浴缸
+- **Bahn** (die, -en) · 铁路；轨道；车道
+- **Bahnhof** (der, Bahnhöfe) · 火车站
+- **Bahnsteig** (der, -e) · 站台
+- **Bakterie** (die, -n) · 细菌
+- **Balance** (die) · 平衡
+- **bald** (Adv) · 不久
+- **Balkon** (der, -e/-s) · 阳台
+- **Ball** (der, Bälle) · 球；舞会
+- **Ballett** (das, -e) · 芭蕾
+- **Bammel** (der, 口语) · 害怕
+- **Banane** (die, -n) · 香蕉
+- **Band** (das/die/der) · 带子；乐队；卷（三性三义）
+- **Bande** (die, -n) · 一伙、帮派
+
+### bang — Baumwolle
+
+- **bang** (Adj) · 害怕的
+- **Bank** (die, Bänke/Banken) · 长椅；银行
+- **Banklehre** (die) · 银行职业培训
+- **Bankleitzahl** (die, -en) · 银行代码
+- **bankrott** (Adj) · 破产的
+- **Banktresor** (der, -e) · 银行保险箱
+- **Bar** (die, -s) · 酒吧
+- **bar** (Adj/Präp. + Gen) · 现金的；缺少
+- **Bargeld** (das) · 现金
+- **Bart** (der, Bärte) · 胡子
+- **basieren** (vi) · 基于 (auf etw. basieren)
+- **Basis** (die, Basen) · 基础
+- **Basketball** (der) · 篮球
+- **basteln** (vi/vt) · 手工制作
+- **Batterie** (die, -n) · 电池
+- **Bau** (der) · 建筑；建造
+- **Bauarbeiter** (der, -) · 建筑工人
+- **Bauch** (der, Bäuche) · 肚子
+- **bauen** (vt/vi) · 建造
+- **Bauer** (der, -n) · 农民
+- **Baum** (der, Bäume) · 树
+- **Baumwolle** (die) · 棉花
+
+### Baustelle — beschweren
+
+- **Baustelle** (die, -n) · 工地
+- **Bauwerk** (das, -e) · 建筑物
+- **Bauzeichner** (der, -) · 制图员
+- **beachten** (vt) · 注意、遵守
+- **Beachtung** (die) · 注意、重视
+- **Beamte** (der, -n) · 公务员
+- **beantragen** (vt) · 申请
+- **beantworten** (vt) · 回答
+- **Becher** (der, -) · 杯子
+- **bedanken** (sich) · 感谢 (sich bei jdm. bedanken)
+- **Bedarf** (der) · 需求 (Bedarf an etw.)
+- **bedecken** (vt) · 覆盖
+- **bedenken** (vt) → bedachte, bedacht · 考虑
+- **bedeuten** (vt) · 意味着
+- **bedeutend** (Adj) · 重要的、显著的
+- **Bedeutung** (die, -en) · 意义、重要性
+- **bedienen** (vt/sich) · 服务；操作
+- **Bedienungsanleitung** (die, -en) · 使用说明书
+- **Bedingung** (die, -en) · 条件
+- **bedroht** (Adj) · 受威胁的
+- **Bedürfnis** (das, -se) · 需求
+- **bedürftig** (Adj) · 贫困的；需要的
+- **beeilen** (sich) · 赶快
+- **beenden** (vt) · 结束
+- **beerdigen** (vt) · 安葬
+- **befassen** (sich) · 处理 (sich mit etw. befassen)
+- **Befehl** (der, -e) · 命令
+- **befehlen** (vt) → befahl, befohlen · 命令
+- **befinden** (sich) → befand, befunden · 位于、处于
+- **Befinden** (das) · 身体状况
+- **befreit** (Adj) · 免除的、获释的
+- **befriedigend** (Adj) · 令人满意的
+- **befürworten** (vt) · 赞成
+- **Begabung** (die, -en) · 天赋
+- **begeben** (sich) → begab, begeben · 前往
+- **begegnen** (vi + Dat, sein) · 遇见
+- **begeistert** (Adj) · 热情的 (von etw. begeistert sein)
+- **Beginn** (der) · 开始
+- **beginnen** (vt/vi) → begann, begonnen · 开始
+- **begleiten** (vt) · 陪同
+- **Begleiter** (der, -) · 陪同者
+- **Begleiterin** (die, -nen) · 女陪同
+- **begreifen** (vt) → begriff, begriffen · 理解
+- **begrenzt** (Adj) · 有限的
+- **begründen** (vt) · 论证、说明理由
+- **Begründung** (die, -en) · 理由、论证
+- **begrüßen** (vt) · 欢迎、问候
+- **behalten** (vt) → behielt, behalten · 保留；记住
+- **behandeln** (vt) · 处理；治疗
+- **behaupten** (vt) · 声称
+- **beherrschen** (vt) · 掌握、控制
+- **behindern** (vt) · 阻碍
+- **Behinderung** (die, -en) · 障碍；残疾
+- **Behörde** (die, -n) · 当局、机构
+- **bei** (Präp. + Dat) · 在……旁；在……时；在……处
+- **beibringen** (vt) → brachte bei, beigebracht · 教
+- **Bein** (das, -e) · 腿
+- **beinahe** (Adv) · 几乎
+- **Beispiel** (das, -e) · 例子
+- **beißen** (vt/vi) → biss, gebissen · 咬
+- **Beitrag** (der, Beiträge) · 贡献；会费
+- **beitragen** (vi) → trug bei, beigetragen · 贡献 (zu)
+- **beitreten** (vi, sein + Dat) → trat bei, beigetreten · 加入
+- **bekannt** (Adj) · 著名的；已知的
+- **bekannt geben** (vt) → gab bekannt, bekannt gegeben · 公布
+- **Bekannte** (der/die, -n) · 熟人
+- **Bekanntmachung** (die, -en) · 公告
+- **Bekanntschaft** (die, -en) · 相识
+- **Bekleidung** (die) · 服装
+- **bekommen** (vt) → bekam, bekommen · 得到
+- **beladen** (vt) → belud, beladen · 装载
+- **Belastung** (die, -en) · 负担
+- **Beleg** (der, -e) · 凭证
+- **beleidigen** (vt) · 侮辱
+- **beleuchten** (vt) · 照亮
+- **beliebt** (Adj) · 受欢迎的
+- **bemerken** (vt) · 注意到
+- **bemerkenswert** (Adj) · 值得注意的
+- **bemühen** (sich) · 努力 (um)
+- **benachrichtigen** (vt) · 通知
+- **benachteiligt** (Adj) · 处于不利地位的
+- **Benehmen** (das) · 举止
+- **benehmen** (sich) → benahm, benommen · 举止
+- **benennen** (vt) → benannte, benannt · 命名
+- **benötigen** (vt) · 需要
+- **benutzen** (vt) · 使用
+- **Benutzerkonto** (das, Benutzerkonten) · 用户账户
+- **Benzin** (das) · 汽油
+- **Benzinmotor** (der, -en) · 汽油发动机
+- **beobachten** (vt) · 观察
+- **bequem** (Adj) · 舒适的
+- **Bequemlichkeit** (die, -en) · 舒适
+- **beraten** (vt) → beriet, beraten · 咨询、建议
+- **Berater** (der, -) · 顾问
+- **Beraterin** (die, -nen) · 女顾问
+- **Beratung** (die, -en) · 咨询
+- **berechnen** (vt) · 计算
+- **Bereich** (der, -e) · 领域、范围
+- **bereit** (Adj) · 准备好的
+- **bereits** (Adv) · 已经
+- **Berg** (der, -e) · 山
+- **Bericht** (der, -e) · 报告
+- **berichten** (vi) · 报道 (über)
+- **Beruf** (der, -e) · 职业
+- **beruflich** (Adj) · 职业的
+- **berufstätig** (Adj) · 在职的
+- **beruhigen** (vt/sich) · 使平静
+- **berühmt** (Adj) · 著名的
+- **beschädigen** (vt) · 损坏
+- **beschäftigen** (vt/sich) · 使忙碌；雇用
+- **Beschäftigung** (die, -en) · 就业；活动
+- **Bescheid** (der, -e) · 通知；答复
+- **beschließen** (vt) → beschloss, beschlossen · 决定
+- **beschränken** (vt/sich) · 限制
+- **beschreiben** (vt) → beschrieb, beschrieben · 描述
+- **Beschreibung** (die, -en) · 描述
+- **beschweren** (sich) · 抱怨 (über)
+
+### besetzen — beweisen
+
+- **besetzen** (vt) · 占领；占用
+- **besichtigen** (vt) · 参观
+- **besitzen** (vt) → besaß, besessen · 拥有
+- **besonder** (Adj) · 特别的
+- **besonders** (Adv) · 特别、尤其
+- **besorgen** (vt) · 弄到、购买
+- **besprechen** (vt) → besprach, besprochen · 讨论
+- **Besprechung** (die, -en) · 讨论、会议
+- **Besserung** (die) · 好转
+- **bestätigen** (vt) · 确认
+- **Bestätigung** (die, -en) · 确认
+- **bestehen** (vi/vt) → bestand, bestanden · 存在；通过；坚持
+- **bestellen** (vt) · 订购
+- **bestimmt** (Adj/Adv) · 确定的；肯定
+- **bestrafen** (vt) · 惩罚
+- **Besuch** (der, -e) · 拜访
+- **besuchen** (vt) · 拜访、参观
+- **beteiligen** (sich) · 参与 (an)
+- **Betrag** (der, Beträge) · 金额
+- **betreuen** (vt) · 照管
+- **Betreuer** (der, -) · 照管者
+- **Betreuung** (die, -en) · 照管
+- **Betrieb** (der, -e) · 企业；运转
+- **Betriebsrat** (der, Betriebsräte) · 职工委员会
+- **betrügen** (vt) → betrog, betrogen · 欺骗
+- **betrunken** (Adj) · 喝醉的
+- **Bett** (das, -en) · 床
+- **Bevölkerung** (die, -en) · 人口
+- **bevor** (Konj.) · 在……之前
+- **bewegen** (vt/sich) → bewegte, bewegt / 强 bewog, bewogen · 移动；促使
+- **Bewegung** (die, -en) · 运动
+- **beweisen** (vt) → bewies, bewiesen · 证明
+
+---
+
+## S / U（Bahn 词族补充）
+
+- **S-Bahn** (die, -en) · 轻轨、市郊铁路
+- **Straßenbahn** (die, -en) · 有轨电车
+- **U-Bahn** (die, -en) · 地铁
+
+---
+
+## 复习统计
+
+- 去重后总词数：**608**
+- 含重复总词条（学习批次累计）：**658**
+- 学习进度：A2 11/118 · B1 364/2871 · B2 282/2108
+- 生成日期：2026-09-24

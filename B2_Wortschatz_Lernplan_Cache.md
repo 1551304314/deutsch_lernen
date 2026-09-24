@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：10 / 118
-- B1 已学位置：336 / 2871
-- B2 已学位置：261 / 2108
-- 上次学习日期：2026-09-18
+- A2 已学位置：11 / 118
+- B1 已学位置：364 / 2871
+- B2 已学位置：282 / 2108
+- 上次学习日期：2026-09-24
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -650,3 +650,55 @@
 - [B2] beibringen
 - [B2] Bein
 - [B2] Beitrag
+
+### 第 13 天（2026-09-24）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] Band
+- [B1] besonders
+- [B1] besorgen
+- [B1] besprechen
+- [B1] Besprechung
+- [B1] Besserung
+- [B1] bestätigen
+- [B1] Bestätigung
+- [B1] bestehen
+- [B1] bestellen
+- [B1] bestimmt
+- [B1] bestrafen
+- [B1] besuchen
+- [B1] Besuch
+- [B1] beteiligen
+- [B1] Betrag
+- [B1] betreuen
+- [B1] Betreuer
+- [B1] Betreuung
+- [B1] Betrieb
+- [B1] Betriebsrat
+- [B1] betrügen
+- [B1] betrunken
+- [B1] Bett
+- [B1] Bevölkerung
+- [B1] bevor
+- [B1] bewegen
+- [B1] Bewegung
+- [B1] beweisen
+- [B2] beitragen
+- [B2] beitreten
+- [B2] Bekanntmachung
+- [B2] Bekanntschaft
+- [B2] Bekleidung
+- [B2] beladen
+- [B2] Belastung
+- [B2] Beleg
+- [B2] beleuchten
+- [B2] bemerkenswert
+- [B2] bemühen
+- [B2] benachrichtigen
+- [B2] benachteiligt
+- [B2] Benehmen
+- [B2] benehmen
+- [B2] benennen
+- [B2] Benutzerkonto
+- [B2] Benzinmotor
+- [B2] Bequemlichkeit
+- [B2] Berater
+- [B2] Beraterin
