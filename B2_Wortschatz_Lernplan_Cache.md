@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：11 / 118
-- B1 已学位置：364 / 2871
-- B2 已学位置：282 / 2108
-- 上次学习日期：2026-09-24
+- A2 已学位置：12 / 118
+- B1 已学位置：392 / 2871
+- B2 已学位置：303 / 2108
+- 上次学习日期：2026-09-28
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -702,3 +702,55 @@
 - [B2] Bequemlichkeit
 - [B2] Berater
 - [B2] Beraterin
+
+### 第 14 天（2026-09-28）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] beide
+- [B1] Beweis
+- [B1] bewerben
+- [B1] Bewerbung
+- [B1] Bewohner
+- [B1] bezahlen
+- [B1] Beziehung
+- [B1] Bibliothek
+- [B1] Bier
+- [B1] bieten
+- [B1] Bild
+- [B1] Bildschirm
+- [B1] Billett
+- [B1] billig
+- [B1] Biologie
+- [B1] Bio
+- [B1] biologisch
+- [B1] Birne
+- [B1] bis
+- [B1] bisher
+- [B1] bitten
+- [B1] Bitte
+- [B1] bitte
+- [B1] bitter
+- [B1] blass
+- [B1] Blatt
+- [B1] bleiben
+- [B1] Bleistift
+- [B1] Blick
+- [B2] bereiten
+- [B2] Bereitschaft
+- [B2] bereuen
+- [B2] berücksichtigen
+- [B2] Berufsanfänger
+- [B2] Berufsausbildung
+- [B2] Berufserfahrung
+- [B2] Berufsschule
+- [B2] beruhigend
+- [B2] berühren
+- [B2] besagen
+- [B2] Besatzungszone
+- [B2] beschädigen
+- [B2] beschäftigen
+- [B2] Beschäftigte
+- [B2] Bescheid
+- [B2] beschränken
+- [B2] beschriften
+- [B2] Beschwerdebrief
+- [B2] beschweren
+- [B2] beseelt
