@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：12 / 118
-- B1 已学位置：392 / 2871
-- B2 已学位置：303 / 2108
-- 上次学习日期：2026-09-28
+- A2 已学位置：14 / 118
+- B1 已学位置：448 / 2871
+- B2 已学位置：345 / 2108
+- 上次学习日期：2026-10-20
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -754,3 +754,107 @@
 - [B2] Beschwerdebrief
 - [B2] beschweren
 - [B2] beseelt
+
+### 第 15 天（2026-10-19）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] besetzt
+- [B1] blind
+- [B1] blitzen
+- [B1] Blitz
+- [B1] blond
+- [B1] bloß
+- [B1] blühen
+- [B1] Blume
+- [B1] Bluse
+- [B1] bluten
+- [B1] Blut
+- [B1] Boden
+- [B1] Bogen
+- [B1] Bohne
+- [B1] Boot
+- [B1] Botschaft
+- [B1] böse
+- [B1] braten
+- [B1] Braten
+- [B1] brauchen
+- [B1] brechen
+- [B1] breit
+- [B1] Breite
+- [B1] bremsen
+- [B1] Bremse
+- [B1] brennen
+- [B1] Brief
+- [B1] Briefkasten
+- [B1] Briefmarke
+- [B2] besehen
+- [B2] besetzen
+- [B2] Besitzerin
+- [B2] Besitzer
+- [B2] besorgt
+- [B2] Besprechung
+- [B2] Bestandteil
+- [B2] bestechend
+- [B2] bestehen
+- [B2] besteigen
+- [B2] Bestellformular
+- [B2] Bestellung
+- [B2] Bestellvorgang
+- [B2] bestimmen
+- [B2] bestmöglich
+- [B2] Bestseller
+- [B2] Beteiligung
+- [B2] betonen
+- [B2] Betonung
+- [B2] Betracht
+- [B2] Betrachterin
+
+### 第 16 天（2026-10-20）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] bisschen
+- [B1] Briefträger
+- [B1] Briefumschlag
+- [B1] Brieftasche
+- [B1] Brille
+- [B1] bringen
+- [B1] Broschüre
+- [B1] Brot
+- [B1] Brötchen
+- [B1] Brötli
+- [B1] Brücke
+- [B1] Bruder
+- [B1] Brust
+- [B1] Bub
+- [B1] Buch
+- [B1] Buchhandlung
+- [B1] buchen
+- [B1] buchstabieren
+- [B1] Buchstabe
+- [B1] Büchse
+- [B1] Buffet
+- [B1] Bühne
+- [B1] bunt
+- [B1] Burg
+- [B1] Bürger
+- [B1] Büro
+- [B1] Bürste
+- [B1] Bus
+- [B1] Butter
+- [B2] Betrachter
+- [B2] betreffen
+- [B2] Betreffzeile
+- [B2] betreiben
+- [B2] Betreiber
+- [B2] betreten
+- [B2] betreuen
+- [B2] Betreuung
+- [B2] Betriebswirtschaft
+- [B2] betroffen
+- [B2] Betroffene
+- [B2] Bettzeug
+- [B2] Bevölkerungswachstum
+- [B2] bewachen
+- [B2] Bewachung
+- [B2] bewältigen
+- [B2] Bewegungsstörung
+- [B2] Bewerber
+- [B2] Bewerbungsbrief
+- [B2] Bewerbungsschreiben
+- [B2] Bewertung
