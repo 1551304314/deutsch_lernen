@@ -8,10 +8,10 @@
 - `欧标B2单词.xlsx`：2108 词（同上结构：标题行 + 表头「单词」，词从第 3 行起）
 
 ## 进度
-- A2 已学位置：14 / 118
-- B1 已学位置：448 / 2871
-- B2 已学位置：345 / 2108
-- 上次学习日期：2026-10-20
+- A2 已学位置：15 / 118
+- B1 已学位置：476 / 2871
+- B2 已学位置：366 / 2108
+- 上次学习日期：2026-10-21
 
 ## 历史批次（最近一批为「明日复习词」）
 
@@ -858,3 +858,55 @@
 - [B2] Bewerbungsbrief
 - [B2] Bewerbungsschreiben
 - [B2] Bewertung
+
+### 第 17 天（2026-10-21）· 共 50 词（A2×1 + B1×28 + B2×21）
+- [A2] blöd
+- [B1] Café
+- [B1] Cafeteria
+- [B1] Chance
+- [B1] Chef
+- [B1] schick
+- [B1] Coiffeur
+- [B1] Couch
+- [B1] Creme
+- [B1] Cousin
+- [B1] da
+- [B1] dabei
+- [B1] Dach
+- [B1] dafür
+- [B1] dagegen
+- [B1] daher
+- [B1] dahin
+- [B1] damals
+- [B1] Dame
+- [B1] damit
+- [B1] danach
+- [B1] daneben
+- [B1] danken
+- [B1] Dank
+- [B1] dankbar
+- [B1] danke
+- [B1] dann
+- [B1] darstellen
+- [B1] Darstellung
+- [B2] bewirken
+- [B2] Bewunderer
+- [B2] bewusst
+- [B2] Bezug
+- [B2] Bibliothekarin
+- [B2] Bibliothekar
+- [B2] bilingual
+- [B2] Billiglohnland
+- [B2] bisherig
+- [B2] blamieren
+- [B2] Blei
+- [B2] bleiben
+- [B2] blitzen
+- [B2] Blog
+- [B2] Blogger
+- [B2] Blutdruck
+- [B2] Bluthochdruck
+- [B2] Blutwert
+- [B2] Blutzucker
+- [B2] Bombe
+- [B2] Branche
